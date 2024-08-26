@@ -7,7 +7,8 @@ version: 2
 
 # Personal info
 name: Rohan Rathore
-title: </> Data Engineer
+phone: Your phone number
+title: </> Data Engineer<br>Bengaluru, India
 email: rohan.rathore93@gmail.com
 # website: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
 
@@ -113,7 +114,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
