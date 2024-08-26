@@ -9,7 +9,7 @@ version: 2
 name: Rohan Rathore
 title: </> Data Engineer
 email: rohan.rathore93@gmail.com
-website: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
+# website: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,9 +31,9 @@ linkedin_username: rohanredtj
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: upwork
+  icon: fas fa-briefcase
+  url: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
