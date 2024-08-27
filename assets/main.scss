@@ -6,10 +6,15 @@
 
 
 .skill-outline {
-    border: 1px solid #fff;  // White border to match the theme
-    padding: 2px 5px;
-    display: inline-block;
-    margin: 2px 5px 2px 0;
-    color: #000000;  // White text to match the theme
-    background-color: transparent;  // Transparent background
-  }
+border: 1px solid #fff;  /* White border */
+padding: 2px 5px;
+display: inline-block;
+margin: 2px 5px 2px 0;
+color: #fff;  /* White text */
+background-color: transparent;  /* Transparent background */
+}
+
+.skill-filled {
+background-color: #fff;  /* White background */
+color: #000;  /* Black text */
+}
