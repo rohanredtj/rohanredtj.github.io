@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   ## Expertise
-  <mark>Data Engineering</mark> <span class="skill-outline">Software Engineering</span>
+  <mark>Data Engineering</mark> <span class="skill-outline">Software Engineering</span> <span class="skill-outline">Python</span>
 
   ## Bio
   Hi, I'm Mike, a senior technologist with over a decade of experience in building and scaling products. Over the past ten years, I've specialized in data engineering, full-stack web development, and product management. I'm a natural problem solver capable of mastering complex subjects quickly and focusing on delivering real value.
