@@ -4,9 +4,12 @@
 
 @import 'modern-resume-theme';
 
-.highlight {
-    border: 1px solid #000;
-    padding: 2px 5px;
-    display: inline-block;
-    margin: 2px 0;
-  }
+// Your custom styles here
+.skill-outline {
+  border: 1px solid #fff;  // White border to match the theme
+  padding: 2px 5px;
+  display: inline-block;
+  margin: 2px 5px 2px 0;
+  color: #fff;  // White text to match the theme
+  background-color: transparent;  // Transparent background
+}
