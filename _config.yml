@@ -22,61 +22,60 @@ additional_links:
   icon: fas fa-briefcase
   url: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
 
-# About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-# Mike's Portfolio
 
-Hi, I'm Mike, a senior technologist with over a decade of experience in building and scaling products. Over the past ten years, I've specialized in data engineering, full-stack web development, and product management. I'm a natural problem solver capable of mastering complex subjects quickly and focusing on delivering real value.
+  # Mike's Portfolio
 
-## Expertise
-I am most skilled in
-- <mark>Data Engineering</mark>
-- <mark>Software Engineering</mark>
-- <mark>Python</mark>
-- <mark>Data Visualization</mark>
-- <mark>Django</mark>
-- <mark>React</mark>
-- <mark>Apache Spark</mark>
-- <mark>Elasticsearch</mark>
-- <mark>PySpark</mark>
-- <mark>Apache Airflow</mark>
-- <mark>Engineering Management</mark>
-- <mark>TypeScript</mark>
-- <mark>Apache Kafka</mark>
-- <mark>Full-stack Development</mark>
-- <mark>Apache Cassandra</mark>
-- <mark>Adobe Analytics</mark>
+  Hi, I'm Mike, a senior technologist with over a decade of experience in building and scaling products. Over the past ten years, I've specialized in data engineering, full-stack web development, and product management. I'm a natural problem solver capable of mastering complex subjects quickly and focusing on delivering real value.
 
-## Experience
+  ## Expertise
+  I am most skilled in:
+  - <mark>Data Engineering</mark>
+  - <mark>Software Engineering</mark>
+  - <mark>Python</mark>
+  - <mark>Data Visualization</mark>
+  - <mark>Django</mark>
+  - <mark>React</mark>
+  - <mark>Apache Spark</mark>
+  - <mark>Elasticsearch</mark>
+  - <mark>PySpark</mark>
+  - <mark>Apache Airflow</mark>
+  - <mark>Engineering Management</mark>
+  - <mark>TypeScript</mark>
+  - <mark>Apache Kafka</mark>
+  - <mark>Full-stack Development</mark>
+  - <mark>Apache Cassandra</mark>
+  - <mark>Adobe Analytics</mark>
 
-### Tools and Technologies
-- **Software Engineering:** 15 years
-- **Product Management:** 10 years
-- **Data Engineering:** 10 years
-- **Full-stack Development:** 9 years
-- **Python:** 9 years
-- **Apache Spark:** 6 years
-- **Apache Storm:** 6 years
-- **Apache Airflow:** 3 years
+  ## Experience
 
-## Portfolio
-Explore my work in different domains:
+  ### Tools and Technologies
+  - **Software Engineering:** 15 years
+  - **Product Management:** 10 years
+  - **Data Engineering:** 10 years
+  - **Full-stack Development:** 9 years
+  - **Python:** 9 years
+  - **Apache Spark:** 6 years
+  - **Apache Storm:** 6 years
+  - **Apache Airflow:** 3 years
 
-- [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
-- [Parse.ly](#) - Product Management, B2B Product Management, Data Engineering
-- [Globe and Mail](#) - Apache Pig, Hadoop, Amazon Elastic MapReduce (EMR), Web Analytics
+  ## Portfolio
+  Explore my work in different domains:
 
-## Availability
-I'm currently available for new opportunities. [Get in touch!](#)
+  - [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
+  - [Parse.ly](#) - Product Management, B2B Product Management, Data Engineering
+  - [Globe and Mail](#) - Apache Pig, Hadoop, Amazon Elastic MapReduce (EMR), Web Analytics
 
-## Preferred Environment
-I thrive in collaborative and innovative environments that encourage continuous learning and development.
+  ## Availability
+  I'm currently available for new opportunities. [Get in touch!](#)
 
-## Education
-Find more about my educational background [here](#).
+  ## Preferred Environment
+  I thrive in collaborative and innovative environments that encourage continuous learning and development.
+
+  ## Education
+  Find more about my educational background [here](#).
 
 content:
   - title: Projects # Title for the section
