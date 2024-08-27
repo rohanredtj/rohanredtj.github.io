@@ -34,11 +34,8 @@ about_content: | # this will include new lines to allow paragraphs
   ## Experience
   <span class="block-secondary">Software Engineeringg - 15 years</span> <span class="block-secondary">Product Management -10 years</span>
 
-  ## Portfolio
-  [Data Engineering](#data-engineering-projects), [Parse.ly](#), [Globe and Mail](#)
-
-  ## Preferred Environment
-  <span class="block-secondary">Visual Studio Code (VS Code)</span> <span class="block-secondary">Google Colab</span> <span class="block-secondary">MacOS</span>
+  ## Portfolio Projects
+  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects)
 
   ## Education
   - [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
@@ -50,6 +47,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   ## Skills
   - **Libraries/APIs** - Pandas, PySpark
+
+  ## Preferred Environment
+  Visual Studio Code (VS Code), Google Colab, MacOS
 
 content:
   - title: Data Engineering Projects
