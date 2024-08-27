@@ -5,16 +5,20 @@
 @import "modern-resume-theme";
 
 
-.skill-outline {
-border: 1px solid #ff0101;  /* White border */
-padding: 2px 5px;
-display: inline-block;
-margin: 2px 5px 2px 0;
-color: #0ee031;  /* White text */
-background-color: rgb(0, 0, 253);  /* Transparent background */
+.block-main {
+    border: 1px solid #000000;
+    padding: 2px 5px;
+    display: inline-block;
+    margin: 2px 5px 2px 0;
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
 }
 
-.skill-filled {
-background-color: #f700ff;  /* White background */
-color: #00ddff;  /* Black text */
+.block-secondary {
+    border: 1px solid #000000;
+    padding: 2px 5px;
+    display: inline-block;
+    margin: 2px 5px 2px 0;
+    color: #000000;
+    background-color: transparent;
 }
