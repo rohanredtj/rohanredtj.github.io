@@ -1,17 +1,9 @@
----
-# Front matter comment to ensure Jekyll properly reads file.
----
-
-@import 'modern-resume-theme';
-
-
-// Your original custom styles here
+// Your custom styles here
 .skill-outline {
-  border: 1px solid #fff;
-  padding: 2px 5px;
-  display: inline-block;
-  margin: 2px 5px 2px 0;
-  color: #fff;
-  background-color: transparent;
-}
-
+    border: 1px solid #fff;
+    padding: 2px 5px;
+    display: inline-block;
+    margin: 2px 5px 2px 0;
+    color: #fff;
+    background-color: transparent;
+  }
