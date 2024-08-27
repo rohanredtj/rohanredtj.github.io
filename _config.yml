@@ -26,19 +26,19 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   ## Expertise
-  <span class="block-main"><svg width="16" height="16" margin-right="16" vertical-align="4pxmiddle" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Software Engineering</span> <span class="block-secondary">Python</span>
+  <span class="block-main"><svg width="12" height="12" margin-right="16" vertical-align="4pxmiddle" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Software Engineering</span> <span class="block-secondary">Python</span>
 
   ## Bio
   Hi, I'm Mike, a senior technologist with over a decade of experience in building and scaling products. Over the past ten years, I've specialized in data engineering, full-stack web development, and product management. I'm a natural problem solver capable of mastering complex subjects quickly and focusing on delivering real value.
 
   ## Experience
-  <span>Software Engineeringg - 15 years</span> <span>Product Management -10 years</span>
+  <span class="block-secondary">Software Engineeringg - 15 years</span> <span class="block-secondary">Product Management -10 years</span>
 
   ## Portfolio
   [ReturnBear](#), [Parse.ly](#), [Globe and Mail](#)
 
   ## Preferred Environment
-  <span>Visual Studio Code (VS Code)</span> <span>Python</span> <span>Google Colab</span> <span>MacOS</span>
+  <span class="block-secondary">Visual Studio Code (VS Code)</span> <span class="block-secondary">Google Colab</span> <span class="block-secondary">MacOS</span>
 
   ## Education
   - [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
