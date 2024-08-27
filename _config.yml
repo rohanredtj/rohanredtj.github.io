@@ -32,7 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Mike, a senior technologist with over a decade of experience in building and scaling products. Over the past ten years, I've specialized in data engineering, full-stack web development, and product management. I'm a natural problem solver capable of mastering complex subjects quickly and focusing on delivering real value.
 
   ## Experience
-  <span>Software Engineering - 15 years</span> <span>Product Management -10 years</span>
+  <span class="skill-outline">Software Engineering - 15 years</span> <span>Product Management -10 years</span>
 
   ## Portfolio
   [ReturnBear](#), [Parse.ly](#), [Globe and Mail](#)
