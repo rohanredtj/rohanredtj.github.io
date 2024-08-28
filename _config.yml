@@ -30,14 +30,15 @@ about_content: | # this will include new lines to allow paragraphs
   
   ## **Bio**
   Rohan is a versatile data professional with 7 years of experience in the data-driven ecosystem. He has demonstrated a commitment to continuous learning, having completed two master's degrees to gain international exposure and broaden his skill set. Rohan's adaptability allows him to quickly grasp new technologies and methodologies, making him an asset in fast-paced environments. His experience spans multiple projects and includes work with US-based companies, giving him a global perspective on data challenges. Rohan's expertise encompasses various aspects of the data lifecycle, from engineering and analytics to visualization and machine learning. His diverse skill set and eagerness to learn position him well to tackle complex data problems and drive impactful solutions.
-  <blockquote></blockquote>
+  <br><br> 
 
   ## **Experience**
   <span class="block-secondary">Python - 6 years</span> <span class="block-secondary">SQL - 5 years</span> <span class="block-secondary">BigQuery - 3 years</span> <span class="block-secondary">Data Modelling - 3 years</span> <span class="block-secondary">Django - 2 years</span> <span class="block-secondary">Amazon Web Services (AWS) - 2 years</span> <span class="block-secondary">Docker - 1 years</span> <span class="block-secondary">Predictive Modeling - 6 years</span> <span class="block-secondary">Keras - 3 years</span> <span class="block-secondary">PySpark - 2 years</span> <span class="block-secondary">DBT - 2 years</span>
-  <br> 
+  <br><br> 
 
   ## **Portfolio Projects**
-  <blockquote>[Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)</blockquote>
+  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
+  <br><br> 
 
   ## **Education**
   - [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
