@@ -26,41 +26,34 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   # Expertise
-  <br> 
-  <div style="margin-left: 20px;"><span class="block-main"><svg width="12" height="12" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">SQL</span> <span class="block-secondary">Python</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Data Visualization</span> <span class="block-secondary">Data Migration</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">Business Intelligence (BI)</span> <span class="block-secondary">Data Pipelines</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Databases</span> <span class="block-secondary">Amazon Web Services (AWS)</span> <span class="block-secondary">Pandas</span></div>
+  <div style="margin-left: 0px;"><span class="block-main"><svg width="12" height="12" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">SQL</span> <span class="block-secondary">Python</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Data Visualization</span> <span class="block-secondary">Data Migration</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">Business Intelligence (BI)</span> <span class="block-secondary">Data Pipelines</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Databases</span> <span class="block-secondary">Amazon Web Services (AWS)</span> <span class="block-secondary">Pandas</span></div>
   <br> 
 
   # Bio
-  <br> 
   Rohan is a versatile data professional with 7 years of experience in the data-driven ecosystem. He has demonstrated a commitment to continuous learning, having completed two master's degrees to gain international exposure and broaden his skill set. Rohan's adaptability allows him to quickly grasp new technologies and methodologies, making him an asset in fast-paced environments. His experience spans multiple projects and includes work with US-based companies, giving him a global perspective on data challenges. Rohan's expertise encompasses various aspects of the data lifecycle, from engineering and analytics to visualization and machine learning. His diverse skill set and eagerness to learn position him well to tackle complex data problems and drive impactful solutions.
 
   Rohan is currently available for new opportunities. The quickest way to reach Rohan and discuss potential collaborations is through his [Upwork](https://www.upwork.com/freelancers/~01ee871ca78c1a805c) profile.
   <br> 
 
   # Experience
-
   <blockquote><span class="block-secondary">Python - 6 years</span> <span class="block-secondary">SQL - 5 years</span> <span class="block-secondary">BigQuery - 3 years</span> <span class="block-secondary">Data Modelling - 3 years</span> <span class="block-secondary">Django - 2 years</span> <span class="block-secondary">Amazon Web Services (AWS) - 2 years</span> <span class="block-secondary">Docker - 1 years</span> <span class="block-secondary">Predictive Modeling - 6 years</span> <span class="block-secondary">Keras - 3 years</span> <span class="block-secondary">PySpark - 2 years</span> <span class="block-secondary">DBT - 2 years</span></blockquote>
-
+  <br> 
 
   # Portfolio Projects
-
   [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
+  <br> 
 
-
-  ## Education
-
+  # Education
   - [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
   - [Parse.ly](#) - Product Management, B2B Product Management, Data Engineering
   - [Globe and Mail](#) - Apache Pig, Hadoop, Amazon Elastic MapReduce (EMR), Web Analytics
-
+  <br> 
 
   # Certifications
-
   - [ReturnBear](#)
-
+  <br> 
 
   # Skills
-
   - **Libraries/APIs** - Pandas, PySpark
   - **Tools** - Pandas, PySpark
   - **Languages** - Pandas, PySpark
@@ -68,10 +61,9 @@ about_content: | # this will include new lines to allow paragraphs
   - **Platforms** - Pandas, PySpark
   - **Storage** - Pandas, PySpark
   - **Other** - Pandas, PySpark 
-
+  <br> 
 
   # Preferred Environment
-
   Visual Studio Code (VS Code), Amazon Web Services (AWS), Google Colab, MacOS
 
 content:
