@@ -25,6 +25,10 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
+  ## **Portfolio Projects**
+  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
+  <br><br> 
+
   ## **Expertise**
   <blockquote><span class="block-main"><svg width="12" height="12" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">SQL</span> <span class="block-secondary">Python</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Data Visualization</span> <span class="block-secondary">Data Migration</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">Business Intelligence (BI)</span> <span class="block-secondary">Data Pipelines</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Databases</span> <span class="block-secondary">Amazon Web Services (AWS)</span> <span class="block-secondary">Pandas</span></blockquote>
   
@@ -34,10 +38,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   ## **Experience**
   <blockquote><span class="block-secondary">Python - 6 years</span> <span class="block-secondary">Predictive Modeling - 6 years</span> <span class="block-secondary">SQL - 5 years</span> <span class="block-secondary">BigQuery - 3 years</span> <span class="block-secondary">Data Modelling - 3 years</span> <span class="block-secondary">Keras - 3 years</span> <span class="block-secondary">Django - 2 years</span> <span class="block-secondary">Amazon Web Services (AWS) - 2 years</span> <span class="block-secondary">PySpark - 2 years</span> <span class="block-secondary">DBT - 2 years</span> <span class="block-secondary">Docker - 1 years</span></blockquote>
-
-  ## **Portfolio Projects**
-  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
-  <br><br> 
 
   ## **Education**
   - [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
