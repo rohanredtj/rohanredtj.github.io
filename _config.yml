@@ -30,9 +30,9 @@ about_content: | # this will include new lines to allow paragraphs
   <br> 
 
   ## Bio
-  Rohan is a versatile data professional with 7 years of experience in the data-driven ecosystem. He has demonstrated a commitment to continuous learning, having completed two master's degrees to gain international exposure and broaden his skill set. Rohan's adaptability allows him to quickly grasp new technologies and methodologies, making him an asset in fast-paced environments. His experience spans multiple projects and includes work with US-based companies, giving him a global perspective on data challenges. Rohan's expertise encompasses various aspects of the data lifecycle, from engineering and analytics to visualization and machine learning. His diverse skill set and eagerness to learn position him well to tackle complex data problems and drive impactful solutions.
+  <blockquote>Rohan is a versatile data professional with 7 years of experience in the data-driven ecosystem. He has demonstrated a commitment to continuous learning, having completed two master's degrees to gain international exposure and broaden his skill set. Rohan's adaptability allows him to quickly grasp new technologies and methodologies, making him an asset in fast-paced environments. His experience spans multiple projects and includes work with US-based companies, giving him a global perspective on data challenges. Rohan's expertise encompasses various aspects of the data lifecycle, from engineering and analytics to visualization and machine learning. His diverse skill set and eagerness to learn position him well to tackle complex data problems and drive impactful solutions.
 
-  Rohan is currently available for new opportunities. The quickest way to reach Rohan and discuss potential collaborations is through his [Upwork](https://www.upwork.com/freelancers/~01ee871ca78c1a805c) profile.
+  Rohan is currently available for new opportunities. The quickest way to reach Rohan and discuss potential collaborations is through his [Upwork](https://www.upwork.com/freelancers/~01ee871ca78c1a805c) profile.</blockquote>
   <br> 
 
   ## Experience
@@ -40,31 +40,31 @@ about_content: | # this will include new lines to allow paragraphs
   <br> 
 
   ## Portfolio Projects
-  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
+  <blockquote>[Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)</blockquote>
   <br> 
 
   ## Education
-  - [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
+  <blockquote>- [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
   - [Parse.ly](#) - Product Management, B2B Product Management, Data Engineering
-  - [Globe and Mail](#) - Apache Pig, Hadoop, Amazon Elastic MapReduce (EMR), Web Analytics
+  - [Globe and Mail](#) - Apache Pig, Hadoop, Amazon Elastic MapReduce (EMR), Web Analytics</blockquote>
   <br> 
 
   ## Certifications
-  - [ReturnBear](#)
+  <blockquote>- [ReturnBear](#)</blockquote>
   <br> 
 
   ## Skills
-  - **Libraries/APIs** - Pandas, PySpark
+  <blockquote>- **Libraries/APIs** - Pandas, PySpark
   - **Tools** - Pandas, PySpark
   - **Languages** - Pandas, PySpark
   - **Paradigms** - Pandas, PySpark
   - **Platforms** - Pandas, PySpark
   - **Storage** - Pandas, PySpark
-  - **Other** - Pandas, PySpark 
+  - **Other** - Pandas, PySpark</blockquote>
   <br> 
 
   ## Preferred Environment
-  Visual Studio Code (VS Code), Amazon Web Services (AWS), Google Colab, MacOS
+  <blockquote>Visual Studio Code (VS Code), Amazon Web Services (AWS), Google Colab, MacOS</blockquote>
 
 content:
   - title: Data Engineering Projects
