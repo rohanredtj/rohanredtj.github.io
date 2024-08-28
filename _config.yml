@@ -33,8 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
   <br><br> 
 
   ## **Experience**
-  <span class="block-secondary">Python - 6 years</span> <span class="block-secondary">SQL - 5 years</span> <span class="block-secondary">BigQuery - 3 years</span> <span class="block-secondary">Data Modelling - 3 years</span> <span class="block-secondary">Django - 2 years</span> <span class="block-secondary">Amazon Web Services (AWS) - 2 years</span> <span class="block-secondary">Docker - 1 years</span> <span class="block-secondary">Predictive Modeling - 6 years</span> <span class="block-secondary">Keras - 3 years</span> <span class="block-secondary">PySpark - 2 years</span> <span class="block-secondary">DBT - 2 years</span>
-  <br><br> 
+  <blockquote><span class="block-secondary">Python - 6 years</span> <span class="block-secondary">SQL - 5 years</span> <span class="block-secondary">BigQuery - 3 years</span> <span class="block-secondary">Data Modelling - 3 years</span> <span class="block-secondary">Django - 2 years</span> <span class="block-secondary">Amazon Web Services (AWS) - 2 years</span> <span class="block-secondary">Docker - 1 years</span> <span class="block-secondary">Predictive Modeling - 6 years</span> <span class="block-secondary">Keras - 3 years</span> <span class="block-secondary">PySpark - 2 years</span> <span class="block-secondary">DBT - 2 years</span></blockquote>
 
   ## **Portfolio Projects**
   [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
