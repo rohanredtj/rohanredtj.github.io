@@ -34,10 +34,9 @@
 
 blockquote {
     border-left: none;
-    margin-left: none;
+    margin: 10px 0;  /* This adds 10px margin to top and bottom */
+    padding: 5px 0;  /* This adds 5px padding to top and bottom */
     padding-left: 0px;
-    margin-top: 20px;
-    margin-bottom: 20px;
 }
 
 // blockquote{border-left:none;margin-left:none;padding-left:20px}
