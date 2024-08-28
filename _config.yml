@@ -39,85 +39,15 @@ about_content: | # this will include new lines to allow paragraphs
   [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
   <br><br> 
 
-  <div class="dropdown">
-      <button class="dropdown-toggle">Education</button>
-      <div class="dropdown-content">
-          <ul>
-              <li><strong>ReturnBear</strong> - B2B Product Management, Django, React Native, React, Sales</li>
-              <li><strong>Parse.ly</strong> - Product Management, B2B Product Management, Data Engineering</li>
-              <li><strong>Globe and Mail</strong> - Apache Pig, Hadoop, Amazon Elastic MapReduce (EMR), Web Analytics</li>
-          </ul>
-      </div>
-  </div>
-
-  <div class="dropdown">
-      <button class="dropdown-toggle">Certifications</button>
-      <div class="dropdown-content">
-          <ul>
-              <li>ReturnBear</li>
-          </ul>
-      </div>
-  </div>
-
-  <div class="dropdown">
-      <button class="dropdown-toggle">Skills</button>
-      <div class="dropdown-content">
-          <h3>Libraries/APIs</h3>
-          <ul>
-              <li>Pandas</li>
-              <li>PySpark</li>
-          </ul>
-          <h3>Tools</h3>
-          <ul>
-              <li>Pandas</li>
-              <li>PySpark</li>
-          </ul>
-          <h3>Languages</h3>
-          <ul>
-              <li>Pandas</li>
-              <li>PySpark</li>
-          </ul>
-          <h3>Paradigms</h3>
-          <ul>
-              <li>Pandas</li>
-              <li>PySpark</li>
-          </ul>
-          <h3>Platforms</h3>
-          <ul>
-              <li>Pandas</li>
-              <li>PySpark</li>
-          </ul>
-          <h3>Storage</h3>
-          <ul>
-              <li>Pandas</li>
-              <li>PySpark</li>
-          </ul>
-          <h3>Other</h3>
-          <ul>
-              <li>Pandas</li>
-              <li>PySpark</li>
-          </ul>
-      </div>
-  </div>
-
-  <script>
-      document.querySelectorAll('.dropdown-toggle').forEach(button => {
-          button.addEventListener('click', () => {
-              const dropdownContent = button.nextElementSibling;
-              dropdownContent.classList.toggle('show');
-          });
-      });
-  </script>
-
   ## **Education**
   - [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
   - [Parse.ly](#) - Product Management, B2B Product Management, Data Engineering
   - [Globe and Mail](#) - Apache Pig, Hadoop, Amazon Elastic MapReduce (EMR), Web Analytics
-  <br> 
+  <br><br> 
 
   ## **Certifications**
   - [ReturnBear](#)
-  <br> 
+  <br><br> 
 
   ## **Skills**
   - **Libraries/APIs** - Pandas, PySpark
@@ -127,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   - **Platforms** - Pandas, PySpark
   - **Storage** - Pandas, PySpark
   - **Other** - Pandas, PySpark
-  <br> 
+  <br><br>  
 
   ## **Preferred Environment**
   Visual Studio Code (VS Code), Amazon Web Services (AWS), Google Colab, MacOS
