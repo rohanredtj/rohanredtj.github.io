@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
   ## **Expertise**
-  <blockquote><span class="block-main"><svg width="12" height="12" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">SQL</span> <span class="block-secondary">Python</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Data Visualization</span> <span class="block-secondary">Data Migration</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">Business Intelligence (BI)</span> <span class="block-secondary">Data Pipelines</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Databases</span> <span class="block-secondary">Amazon Web Services (AWS)</span> <span class="block-secondary">Pandas</span></blockquote>
+  <blockquote><span class="block-main"><svg width="12" height="12" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">ETL</span> <span class="block-secondary"Big Data</span> <span class="block-secondary">Cloud Platforms</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">Database Design</span> <span class="block-secondary">Data Pipeline Architecture</span> <span class="block-secondary">Version Control</span> <span class="block-secondary">Containerization</span></blockquote>
   
   ## **Portfolio Projects**
   [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
@@ -40,9 +40,9 @@ about_content: | # this will include new lines to allow paragraphs
   <blockquote><span class="block-secondary">Python - 6 years</span> <span class="block-secondary">Predictive Modeling - 6 years</span> <span class="block-secondary">SQL - 5 years</span> <span class="block-secondary">BigQuery - 3 years</span> <span class="block-secondary">Data Modelling - 3 years</span> <span class="block-secondary">Keras - 3 years</span> <span class="block-secondary">Django - 2 years</span> <span class="block-secondary">Amazon Web Services (AWS) - 2 years</span> <span class="block-secondary">PySpark - 2 years</span> <span class="block-secondary">DBT - 2 years</span> <span class="block-secondary">Docker - 1 years</span></blockquote>
 
   ## **Education**
-  - [ReturnBear](#) - B2B Product Management, Django, React Native, React, Sales
-  - [Parse.ly](#) - Product Management, B2B Product Management, Data Engineering
-  - [Globe and Mail](#) - Apache Pig, Hadoop, Amazon Elastic MapReduce (EMR), Web Analytics
+  - MS in Business Consulting, Furtwangen University, Germany | [Master Thesis](#)
+  - MS in Big Data Analytics & AI, Novosibirsk State University, Russia
+  - BTech, Delhi Technological University, India
   <br><br> 
 
   ## **Certifications**
