@@ -50,13 +50,13 @@ about_content: | # this will include new lines to allow paragraphs
   <br><br> 
 
   ## **Skills**
-  - **Libraries/APIs** - Pandas, PySpark
-  - **Tools** - Pandas, PySpark
-  - **Languages** - Pandas, PySpark
-  - **Paradigms** - Pandas, PySpark
-  - **Platforms** - Pandas, PySpark
-  - **Storage** - Pandas, PySpark
-  - **Other** - Pandas, PySpark
+  - **Libraries/APIs** - Pandas, NumPy, Scikit-learn, Apache Spark, Django
+  - **Tools** - DBT, Docker, Apache Airflow
+  - **Languages** - Python, SQL, R
+  - **Paradigms** - ETL/ELT, Data Modeling, Data Warehousing, Big Data Processing
+  - **Platforms** - MySQL, PostgreSQL, Amazon Web Services (AWS), Google Cloud Platform (GCP)
+  - **Storage** - Amazon Redshift, Google BigQuery, Snowflake
+  - **Other** - Data Pipeline Design, Data Quality Management, Data Analytics, Machine Learning
   <br><br>  
 
   ## **Preferred Environment**
