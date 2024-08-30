@@ -109,7 +109,7 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-          !(images/profile.jpg)
+          ![Some Image](images/profile.jpg)
 
       - layout: left
         title: Project Name B
@@ -119,7 +119,7 @@ content:
         link_text: Project Website
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs <a href="google.com">Links</a> - Images ![alt text](/images/landscape-trees.jpg "Trees")
+        description: | # this will include new lines to allow paragraphs <a href="google.com">Links</a> - Images ![alt text](/images/landscape-trees.jpg "Trees") <mark>
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
