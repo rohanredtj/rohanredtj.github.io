@@ -81,27 +81,8 @@ content:
           
           <div style="text-align: center;"><img src="https://i.imgur.com/UXKUk2w.jpeg"></div>
 
-          ## Implementation Details
-          1. **Data Ingestion** 🔄: Kafka Connect for real-time data, custom producers for APIs/websockets
-          2. **Processing** ⚙️: Spark Streaming for real-time processing, event processing for anomalies
-          3. **Storage** 💾: Apache Cassandra for optimized read/write operations
-          4. **Visualization** 📊: Interactive Tableau dashboard with real-time updates
-          5. **Deployment** 🚀: Dockerized pipeline on AWS EC2 for scalability and availability
-
-          ## Challenges and Solutions
-          | Challenge | Solution |
-          |-----------|----------|
-          | Handling high-volume data streams with low latency | Implemented Kafka partitioning and Spark microbatching to distribute the processing load |
-          | Ensuring data consistency across the pipeline | Implemented exactly-once semantics in Kafka and idempotent operations in Spark |
-          | Optimizing dashboard performance for real-time updates | Used Cassandra's denormalized data model and implemented caching in Tableau |
-
-          ## Results and Impact
-          ✅ Achieved processing of over 1 million stock price updates per minute with less than 500ms latency
-          ✅ Reduced decision-making time for traders by 40% through real-time insights
-          ✅ Improved anomaly detection accuracy by 25% compared to the previous system
-
-
-
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          
       - layout: left
         title: Project Name B
         sub_title: Job title
