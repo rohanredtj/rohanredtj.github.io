@@ -68,7 +68,7 @@ content:
     content:
       - layout: top-right
         title: Real-time Stock Market Data Pipeline
-        caption: Technologies: Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+        caption: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
