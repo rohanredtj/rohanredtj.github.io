@@ -66,7 +66,7 @@ content:
   - title: Data Engineering Projects
     layout: list
     content:
-      - layout: top-left
+      - layout: top
         title: Real-time Stock Market Data Pipeline
         caption: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         additional_links:
@@ -84,7 +84,7 @@ content:
           <br>
           This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-      - layout: top-left
+      - layout: top
         title: Real-time Stock Market Data Pipeline
         caption: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         additional_links:
