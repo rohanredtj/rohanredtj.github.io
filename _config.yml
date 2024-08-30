@@ -107,7 +107,7 @@ content:
       - layout: left
         title: Project Name A
         sub_title: Job title
-        caption: Technologies: Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+        caption: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         link: github.com/sproogen
         link_text: Project Website
         quote: >
