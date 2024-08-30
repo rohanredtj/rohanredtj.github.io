@@ -68,19 +68,18 @@ content:
     content:
       - layout: left
         title: Project Name A
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: github.com/sproogen
-        link_text: Project Website
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # sub_title: Job title
+        # caption: Date Range (eg. November 2016 - present)
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          - icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Technologies: Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
@@ -110,9 +109,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
-          <div style="text-align: center;"> <img src="https://i.imgur.com/UXKUk2w.jpeg" style="display: block; margin: 0 auto;"> </div>
-
-          <div style="text-align: center;"><img src="https://i.imgur.com/UXKUk2w.jpeg"></div>
+          
 
       - layout: left
         title: Project Name B
@@ -122,7 +119,7 @@ content:
         link_text: Project Website
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs <a href="google.com">Links</a> - Images ![alt text](/images/landscape-trees.jpg "Trees") <mark>
+        description: | # this will include new lines to allow paragraphs <a href="google.com">Links</a> <div style="text-align: center;"><img src="https://i.imgur.com/UXKUk2w.jpeg"></div>
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
