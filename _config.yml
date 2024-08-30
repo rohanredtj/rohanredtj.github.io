@@ -112,6 +112,8 @@ content:
           
           <div style="text-align: center;"> <img src="https://i.imgur.com/UXKUk2w.jpeg" style="display: block; margin: 0 auto;"> </div>
 
+          <div style="text-align: center;"><img src="https://i.imgur.com/UXKUk2w.jpeg"></div>
+
       - layout: left
         title: Project Name B
         sub_title: Job title
