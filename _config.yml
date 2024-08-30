@@ -119,8 +119,19 @@ content:
           :::
 
           ![Some Image](images/profile.jpg){: .center}
-          
+
           ->![Some Image](images/profile.jpg)<-
+
+          <div style="text-align: center;"> ![](https://i.imgur.com/UXKUk2w.jpeg) </div>
+
+          <center>![](https://i.imgur.com/UXKUk2w.jpeg)</center>
+
+          {: .center-image}
+          ![](https://i.imgur.com/UXKUk2w.jpeg) 
+
+          ![](https://i.imgur.com/UXKUk2w.jpeg){: .center-image}
+
+          <div style="text-align: center;"> <img src="https://i.imgur.com/UXKUk2w.jpeg" style="display: block; margin: 0 auto;"> </div>
 
       - layout: left
         title: Project Name B
