@@ -66,8 +66,9 @@ content:
   - title: Data Engineering Projects
     layout: list
     content:
-      - layout: left
+      - layout: top-right
         title: Real-time Stock Market Data Pipeline
+        caption: Technologies: Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
@@ -82,16 +83,23 @@ content:
 
           This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-      - layout: left
-        title: Project Name B
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: github.com/sproogen
-        link_text: Project Website
-        quote: > # Technologies
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+      - layout: center
+        title: Real-time Stock Market Data Pipeline
+        caption: Technologies: Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+
+        quote: >
+          Technologies: Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          <br><div style="text-align: center;"><img src="https://raw.githubusercontent.com/jmcmt87/spark_app_twitter/main/screenshots/Untitled-Diagram-2-2-8-drawio-2.png"></div><br>
+
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          
 
   - title: Data Science Projects
     layout: list
@@ -99,7 +107,7 @@ content:
       - layout: left
         title: Project Name A
         sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        caption: Technologies: Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         link: github.com/sproogen
         link_text: Project Website
         quote: >
