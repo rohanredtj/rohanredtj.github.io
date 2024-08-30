@@ -94,10 +94,10 @@ content:
         
         description: | # this will include new lines to allow paragraphs
           
-          **Problem Statement**
+          ## **Problem Statement**
           This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-          **Solution**
+          ## **Solution**
           <div style="text-align: center;"><img src="https://raw.githubusercontent.com/jmcmt87/spark_app_twitter/main/screenshots/Untitled-Diagram-2-2-8-drawio-2.png"></div>
           <br>
 
@@ -114,12 +114,15 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           
+          ## **Problem Statement**
           This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
+          ## **Solution**
           <div style="text-align: center;"><img src="https://raw.githubusercontent.com/jmcmt87/spark_app_twitter/main/screenshots/Untitled-Diagram-2-2-8-drawio-2.png"></div>
           <br>
 
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly. [🔝](#expertise)
+          
 
   - title: Data Science Projects
     layout: list
@@ -136,10 +139,19 @@ content:
             url: github.com/sproogen/modern-resume-theme
         quote: >
           `Apache Kafka` | `Apache Spark` | `Apache Cassandra` | `Tableau` | `Python` | `Docker` | `AWS EC2`
+        
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
           
+          ## **Problem Statement**
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
+          ## **Solution**
+          <div style="text-align: center;"><img src="https://raw.githubusercontent.com/jmcmt87/spark_app_twitter/main/screenshots/Untitled-Diagram-2-2-8-drawio-2.png"></div>
+          <br>
+
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly. [🔝](#expertise)
+          
+          ---
 
       - layout: left
         title: Project Name B
@@ -149,8 +161,18 @@ content:
         link_text: Project Website
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs <a href="google.com">Links</a> <div style="text-align: center;"><img src="https://i.imgur.com/UXKUk2w.jpeg"></div>
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        
+        description: | # this will include new lines to allow paragraphs
+          
+          ## **Problem Statement**
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          
+          ## **Solution**
+          <div style="text-align: center;"><img src="https://raw.githubusercontent.com/jmcmt87/spark_app_twitter/main/screenshots/Untitled-Diagram-2-2-8-drawio-2.png"></div>
+          <br>
+
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly. [🔝](#expertise)
+          
 
 
 # Footer
