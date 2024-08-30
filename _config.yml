@@ -71,10 +71,7 @@ content:
         sub_title: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         link: github.com/sproogen
         link_text: Project Website 🔗 
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fas fa-link
-            url: github.com/sproogen/modern-resume-theme
+        
 
         description: | # this will include new lines to allow paragraphs
           
@@ -132,6 +129,10 @@ content:
         caption: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         link: github.com/sproogen
         link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fas fa-link
+            url: github.com/sproogen/modern-resume-theme
         quote: >
           `Apache Kafka` | `Apache Spark` | `Apache Cassandra` | `Tableau` | `Python` | `Docker` | `AWS EC2`
         description: | # this will include new lines to allow paragraphs
