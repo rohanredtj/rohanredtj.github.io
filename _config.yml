@@ -71,7 +71,7 @@ content:
         sub_title: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-link
+            icon: fas fa-link
             url: github.com/sproogen/modern-resume-theme
 
         quote: >
@@ -79,18 +79,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           
           This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          
           <br><br>
           <div style="text-align: center;"><img src="https://raw.githubusercontent.com/jmcmt87/spark_app_twitter/main/screenshots/Untitled-Diagram-2-2-8-drawio-2.png"></div>
           <br>
+
           This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
-          ###
+          
+          ---
 
       - layout: left
         title: Real-time Stock Market Data Pipeline
         sub_title: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
+            icon: fas fa-external-link-alt
             url: github.com/sproogen/modern-resume-theme
 
         quote: >
