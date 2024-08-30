@@ -83,7 +83,9 @@ content:
 
           This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly. [🔝](#expertise)
           
+          ![Screeshots](images/profile.jpg) ![Screeshots](images/profile.jpg) ![Screeshots](images/profile.jpg)
           ---
+
       - layout: left
         title: Real-time Stock Market Data Pipeline
         sub_title: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
@@ -91,6 +93,7 @@ content:
         link_text: Project Website 🔗 
         
         description: | # this will include new lines to allow paragraphs
+          
           ## **Problem Statement**
           This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
@@ -100,7 +103,9 @@ content:
 
           This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly. [🔝](#expertise)
           
+          ![Screeshots](images/profile.jpg) ![Screeshots](images/profile.jpg) ![Screeshots](images/profile.jpg)
           ---
+
       - layout: left
         title: Real-time Stock Market Data Pipeline
         sub_title: Technologies - Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
