@@ -77,7 +77,7 @@ content:
     layout: list
     content:
       - layout: left #pid-1
-        title: Zillow Data Pipeline: AWS-based ETL for Real Estate Analytics
+        title: AWS-Powered Zillow Data Pipeline for Real Estate Analytics
         link: github.com/sproogen
         link_text: Project Website 🔗 
         
