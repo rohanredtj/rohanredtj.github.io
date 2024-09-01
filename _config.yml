@@ -83,7 +83,7 @@ content:
         
         description: | # this will include new lines to allow paragraphs      
           
-          Engineered a data pipeline using medallion architecture for <mark>Zillow</mark> data, processing 1GB of daily scraped CSV files from AWS S3. Implemented <mark>data cleaning</mark> and standardization for 180 columns, storing results in Parquet format with Hive partitioning. Deployed as an AWS Lambda function with <mark>scheduled execution</mark> via CloudWatch, optimized for 3GB RAM allocation.
+          Engineered a data pipeline using medallion architecture for <mark>Zillow data</mark>, processing 1GB of daily scraped CSV files from AWS S3. Implemented <mark>data cleaning</mark> and standardization for 180 columns, storing results in Parquet format with Hive partitioning. Deployed as an AWS Lambda function with <mark>scheduled execution</mark> via CloudWatch, optimized for 3GB RAM allocation.
           
           **Technologies:** AWS S3, AWS Lambda, AWS CloudWatch, AWS CLI, Python, Pandas, PyArrow, CSV, Parquet, Hive partitioning
 
