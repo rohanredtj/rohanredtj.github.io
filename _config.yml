@@ -76,16 +76,16 @@ content:
   - title: Data Engineering Projects
     layout: list
     content:
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
+      - layout: left #pid-1
+        title: Zillow Data Pipeline: AWS-based ETL for Real Estate Analytics
         link: github.com/sproogen
         link_text: Project Website 🔗 
         
         description: | # this will include new lines to allow paragraphs      
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          Engineered a <mark>data pipeline</mark> using <mark>medallion architecture</mark> for Zillow data, processing <mark>1GB</mark> of daily scraped <mark>CSV</mark> files from <mark>AWS S3</mark>. Implemented <mark>data cleaning</mark> and <mark>standardization</mark> for <mark>180 columns</mark>, storing results in <mark>Parquet</mark> format with <mark>Hive</mark> partitioning. Deployed as an <mark>AWS Lambda</mark> function with <mark>scheduled execution</mark> via <mark>CloudWatch</mark>, optimized for <mark>3GB RAM</mark> allocation.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+          **Technologies:** AWS S3, AWS Lambda, AWS CloudWatch, AWS CLI, Python, Pandas, PyArrow, CSV, Parquet, Hive partitioning
 
           ---
 
