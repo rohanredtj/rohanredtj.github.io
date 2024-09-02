@@ -103,7 +103,7 @@ content:
           ---
 
       - layout: left #pid-3
-        title: Automated Name Parsing System for Healthcare Provider Lists
+        title: Automated Name Parsing for Healthcare Provider Lists
         link: foo
         link_text: Code Repository 🔗 
         
