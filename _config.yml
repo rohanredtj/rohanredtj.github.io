@@ -164,7 +164,34 @@ content:
           Developed a Python script to <mark>extract</mark> and structure data from <mark>Forbes Russia's</mark> list of top 200 private companies. The project involved web scraping techniques to gather <mark>detailed information</mark> including company rankings, names, financial data, industry sectors, management details, and geographical information. The extracted data was then organized into a comprehensive <mark>dataset</mark>, enabling in-depth analysis of Russia's leading private businesses.
           
           **Technologies:** Python, BeautifulSoup, Pandas, NumPy, Requests, tqd
+    
+  - title: Data Science Projects
+    layout: list
+    content:
+      - layout: left #pid-
+        title: Real-time Stock Market Data Pipeline
+        link: github.com/sproogen
+        link_text: Project Website 🔗 
+        
+        description: | # this will include new lines to allow paragraphs      
           
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          
+          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+
+          ---
+
+      - layout: left #pid-
+        title: Real-time Stock Market Data Pipeline
+        link: github.com/sproogen
+        link_text: Project Website 🔗 
+        
+        description: | # this will include new lines to allow paragraphs      
+          
+          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          
+          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+
   - title: Data Analytics Projects
     layout: list
     content:
