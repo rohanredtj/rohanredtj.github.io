@@ -90,7 +90,7 @@ content:
           ---
 
       - layout: left #pid-2
-        title: Wiktionary Abbreviation Extractor for Legal Document Analysis
+        title: Wiktionary Abbreviation Extractor for Legal Documents
         link: github.com/sproogen
         link_text: Project Website 🔗 
         
@@ -103,7 +103,7 @@ content:
           ---
 
       - layout: left #pid-3
-        title: Automated Name Extraction and Parsing System for Multi-State Healthcare Provider Lists
+        title: Automated Name Parsing System for Healthcare Provider Lists
         link: foo
         link_text: Code Repository 🔗 
         
@@ -116,7 +116,7 @@ content:
           ---
 
       - layout: left #pid-4
-        title: Database Migration Automation from Snowflake to PostgreSQL
+        title: Database Migration from Snowflake to PostgreSQL
         link: foo
         link_text: Code Repository 🔗 
         
