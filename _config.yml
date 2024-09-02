@@ -78,10 +78,10 @@ content:
     content:
       - layout: left #pid-1
         title: AWS-Powered Zillow Data Pipeline for Real Estate Analytics
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+        link: foo
+        link_text: Code Repository 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+        description: |     
           
           Engineered a data pipeline using medallion architecture for <mark>Zillow data</mark>, processing 1GB of daily scraped CSV files from AWS S3. Implemented <mark>data cleaning</mark> and standardization for 180 columns, storing results in Parquet format with Hive partitioning. Deployed as an AWS Lambda function with <mark>scheduled execution</mark> via CloudWatch, optimized for 3GB RAM allocation.
           
@@ -89,16 +89,81 @@ content:
 
           ---
 
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
+      - layout: left #pid-2
+        title: Wiktionary Abbreviation Extractor for Legal Document Analysis
         link: github.com/sproogen
         link_text: Project Website 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+        description: |
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          Developed a sophisticated tool to extract and analyze abbreviations from <mark>Wiktionary dumps</mark>. The project involved <mark>parsing</mark> complex data structures, implementing custom algorithms for <mark>abbreviation detection</mark>, and handling various <mark>edge cases</mark> to ensure comprehensive coverage of linguistic variations.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+          **Technologies:** Python, XML processing libraries, regular expressions, data structures, version control (Git), shell scripting
+
+          ---
+
+      - layout: left #pid-3
+        title: Automated Name Extraction and Parsing System for Multi-State Healthcare Provider Lists
+        link: foo
+        link_text: Code Repository 🔗 
+        
+        description: |     
+          
+          Engineered a sophisticated Python-based system utilizing OpenAI to automate the <mark>extraction and parsing</mark> of healthcare provider information from diverse state-specific files. The system adeptly handles multiple file formats including PDF, Excel, and CSV, processing data from over <mark>10 different states</mark>. It manages complex variations in data structure, ensuring clean and accurate output for <mark>internal compliance</mark> and monitoring use.
+          
+          **Technologies:** Python, OpenAI API, CSV handling libraries, Time management and logging tools
+
+          ---
+
+      - layout: left #pid-4
+        title: Database Migration Automation from Snowflake to PostgreSQL
+        link: foo
+        link_text: Code Repository 🔗 
+        
+        description: |     
+          
+          Developed a robust Python script to <mark>automate</mark> the process of <mark>migrating data</mark> from Snowflake to PostgreSQL. This tool ensures <mark>efficient</mark> and error-free data transfer between disparate database systems. It handles schema creation, table synchronization, and large-scale data movement with <mark>built-in error handling</mark>. The script also generates timestamped schemas for version control and easy rollback if needed.
+          
+          **Technologies:** Python, SQLAlchemy, Pandas, Snowflake, PostgreSQL, SQL
+
+          ---
+      
+      - layout: left #pid-5
+        title: Anime Season Scraper Web Scraping Tool for MyAnimeList
+        link: foo
+        link_text: Code Repository 🔗 
+        
+        description: |     
+          
+          This project developed a web <mark>scraping</mark> tool to collect seasonal <mark>anime data</mark> from MyAnimeList. The script uses the MyAnimeList API to fetch information about anime releases for specified years and seasons. It then processes and organizes this data into a <mark>structured format</mark> using Pandas, saving the results as a CSV file for further analysis or use in other applications.
+          
+          **Technologies:** Python, Pandas, Requests, MyAnimeList API
+
+          ---
+
+      - layout: left #pid-6
+        title: PySpark-Based Oil Price Prediction Model
+        link: foo
+        link_text: Code Repository 🔗 
+        
+        description: |     
+          
+          Developed a sophisticated <mark>machine learning model</mark> using PySpark to <mark>predict oil prices<mark> based on comprehensive oil field data. This project leveraged big data technologies to process and <mark>analyze</mark> large-scale datasets, enhancing decision-making capabilities in the energy sector. The model incorporated various predictive techniques, including Facebook Prophet, and was <mark>deployed<mark> on AWS infrastructure for scalable performance and real-time insights.
+          
+          **Technologies:** PySpark, AWS EC2 (r5.2xlarge instances), Jupyter Notebook, Facebook Prophet, Scikit-learn, Apache Superset, AWS S3, SSH, Python
+
+          ---
+
+      - layout: left #pid-7
+        title: Web Scraping Forbes Russia Top 200 Private Companies
+        link: github.com/sproogen
+        link_text: Project Website 🔗 
+        
+        description: |
+          
+          Developed a Python script to <mark>extract</mark> and structure data from <mark>Forbes Russia's</mark> list of top 200 private companies. The project involved web scraping techniques to gather <mark>detailed information</mark> including company rankings, names, financial data, industry sectors, management details, and geographical information. The extracted data was then organized into a comprehensive <mark>dataset</mark>, enabling in-depth analysis of Russia's leading private businesses.
+          
+          **Technologies:** Python, BeautifulSoup, Pandas, NumPy, Requests, tqdm
           
   - title: Data Science Projects
     layout: list
