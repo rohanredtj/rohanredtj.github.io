@@ -148,7 +148,7 @@ content:
         
         description: |     
           
-          Developed a sophisticated <mark>machine learning model</mark> using PySpark to <mark>predict oil prices</mark> based on comprehensive oil field data. This project leveraged big data technologies to process and <mark>analyze</mark> large-scale datasets, enhancing decision-making capabilities in the energy sector. The model incorporated various predictive techniques, including Facebook Prophet, and was <mark>deployed<mark> on AWS infrastructure for scalable performance and real-time insights.
+          Developed a sophisticated <mark>machine learning model</mark> using PySpark to <mark>predict oil prices</mark> based on comprehensive oil field data. This project leveraged big data technologies to process and <mark>analyze</mark> large-scale datasets, enhancing decision-making capabilities in the energy sector. The model incorporated various predictive techniques, including Facebook Prophet, and was <mark>deployed</mark> on AWS infrastructure for scalable performance and real-time insights.
           
           **Technologies:** PySpark, AWS EC2 (r5.2xlarge instances), Jupyter Notebook, Facebook Prophet, Scikit-learn, Apache Superset, AWS S3, SSH, Python
 
