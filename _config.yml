@@ -108,7 +108,6 @@ content:
         link_text: Project Code 🔗 
         additional_links:
           - title:  www.google.com
-          - icon: far fa-file-alt
           - url: www.google.com
         
         description: |     
