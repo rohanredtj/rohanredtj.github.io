@@ -104,52 +104,9 @@ content:
           ---
 
       - layout: left #pid-3
-        title: Automated Name Parsing for Healthcare Provider Lists
-        link: https://colab.research.google.com/drive/1aG3_g9X8F21TmTy_DnFSk-ljSRgPDQas?usp=drive_link
-        link_text: Project Code 🔗 
-        additional_links:
-          - title:  Project Document
-            icon: far fa-file-alt
-            url: https://drive.google.com/file/d/10jpIEh0clB5KAGy05o_ADhV5tH-ZwWlV/view?usp=drive_link
-        
-        description: |     
-          
-          Engineered a sophisticated Python-based system utilizing OpenAI to automate the <mark>extraction and parsing</mark> of healthcare provider information from diverse state-specific files. The system adeptly handles multiple file formats including PDF, Excel, and CSV, processing data from over <mark>10 different states</mark>. It manages complex variations in data structure, ensuring clean and accurate output for <mark>internal compliance</mark> and monitoring use.
-          
-          **Technologies:** Python, OpenAI API, CSV handling libraries, Time management and logging tools
-
-          ---
-
-      - layout: left #pid-4
-        title: Database Migration from Snowflake to PostgreSQL
-        link: foo
-        link_text: Code Repository 🔗 
-        
-        description: |     
-          
-          Developed a robust Python script to <mark>automate</mark> the process of <mark>migrating data</mark> from Snowflake to PostgreSQL. This tool ensures <mark>efficient</mark> and error-free data transfer between disparate database systems. It handles schema creation, table synchronization, and large-scale data movement with <mark>built-in error handling</mark>. The script also generates timestamped schemas for version control and easy rollback if needed.
-          
-          **Technologies:** Python, SQLAlchemy, Pandas, Snowflake, PostgreSQL, SQL
-
-          ---
-      
-      - layout: left #pid-5
-        title: Anime Season Scraper Web Scraping Tool for MyAnimeList
-        link: foo
-        link_text: Code Repository 🔗 
-        
-        description: |     
-          
-          This project developed a web <mark>scraping</mark> tool to collect seasonal <mark>anime data</mark> from MyAnimeList. The script uses the MyAnimeList API to fetch information about anime releases for specified years and seasons. It then processes and organizes this data into a <mark>structured format</mark> using Pandas, saving the results as a CSV file for further analysis or use in other applications.
-          
-          **Technologies:** Python, Pandas, Requests, MyAnimeList API
-
-          ---
-
-      - layout: left #pid-6
         title: PySpark-Based Oil Price Prediction Model
-        link: foo
-        link_text: Code Repository 🔗 
+        link: 
+        link_text: Proprietary Work
         
         description: |     
           
@@ -159,16 +116,71 @@ content:
 
           ---
 
-      - layout: left #pid-7
+      - layout: left #pid-4
+        title: Database Migration from Snowflake to PostgreSQL
+        link: https://github.com/rohanredtj/snowflake-to-postgres
+        link_text: Project Code 🔗 
+        additional_links:
+          - title:  Project Document
+            icon: far fa-file-alt
+            url: drive.google.com/file/d/11jFpgXil8EomlGrV_S6AAaZOt38fjC0b/view?usp=sharing
+        
+        description: |     
+          
+          Developed a robust Python script to <mark>automate</mark> the process of <mark>migrating data</mark> from Snowflake to PostgreSQL. This tool ensures <mark>efficient</mark> and error-free data transfer between disparate database systems. It handles schema creation, table synchronization, and large-scale data movement with <mark>built-in error handling</mark>. The script also generates timestamped schemas for version control and easy rollback if needed.
+          
+          **Technologies:** Python, SQLAlchemy, Pandas, Snowflake, PostgreSQL, SQL
+
+          ---
+
+      - layout: left #pid-5
+        title: Automated Name Parsing for Healthcare Provider Lists
+        link: https://colab.research.google.com/drive/1aG3_g9X8F21TmTy_DnFSk-ljSRgPDQas?usp=drive_link
+        link_text: Project Code 🔗 
+        additional_links:
+          - title:  Project Document
+            icon: far fa-file-alt
+            url: drive.google.com/file/d/10jpIEh0clB5KAGy05o_ADhV5tH-ZwWlV/view?usp=drive_link
+        
+        description: |     
+          
+          Engineered a sophisticated Python-based system utilizing OpenAI to automate the <mark>extraction and parsing</mark> of healthcare provider information from diverse state-specific files. The system adeptly handles multiple file formats including PDF, Excel, and CSV, processing data from over <mark>10 different states</mark>. It manages complex variations in data structure, ensuring clean and accurate output for <mark>internal compliance</mark> and monitoring use.
+          
+          **Technologies:** Python, OpenAI API, CSV handling libraries, Time management and logging tools
+
+          ---
+
+      - layout: left #pid-6
         title: Web Scraping Forbes Russia Top 200 Private Companies
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+        link: https://colab.research.google.com/drive/1TJsT8sICYtkmeikV2H1kojG_aubV--4S?usp=sharing
+        link_text: Project Code 🔗
+        additional_links:
+          - title:  Project Document
+            icon: far fa-file-alt
+            url: drive.google.com/file/d/1HYqJTY0_iO6vJimLq-FhVoSCaKSPOObe/view?usp=sharing
         
         description: |
           
           Developed a Python script to <mark>extract</mark> and structure data from <mark>Forbes Russia's</mark> list of top 200 private companies. The project involved web scraping techniques to gather <mark>detailed information</mark> including company rankings, names, financial data, industry sectors, management details, and geographical information. The extracted data was then organized into a comprehensive <mark>dataset</mark>, enabling in-depth analysis of Russia's leading private businesses.
           
           **Technologies:** Python, BeautifulSoup, Pandas, NumPy, Requests, tqdm
+
+      - layout: left #pid-7
+        title: Anime Season Scraper Web Scraping Tool for MyAnimeList
+        link: https://colab.research.google.com/drive/1gOYiXsQ7g-83GPFfpBjDfiqex_X1jHuF?usp=sharing
+        link_text: Project Code 🔗
+        additional_links:
+          - title:  Project Document
+            icon: far fa-file-alt
+            url: drive.google.com/file/d/1HYqJTY0_iO6vJimLq-FhVoSCaKSPOObe/view?usp=sharing
+        
+        description: |     
+          
+          This project developed a web <mark>scraping</mark> tool to collect seasonal <mark>anime data</mark> from MyAnimeList. The script uses the MyAnimeList API to fetch information about anime releases for specified years and seasons. It then processes and organizes this data into a <mark>structured format</mark> using Pandas, saving the results as a CSV file for further analysis or use in other applications.
+          
+          **Technologies:** Python, Pandas, Requests, MyAnimeList API
+
+          ---
 
   # - title: Data Science Projects
   #   layout: list
