@@ -73,7 +73,8 @@ about_content: |
 
 content:
 
-  - title: Data Engineering Projects
+  - title: Portfolio Projects
+  # - title: Data Engineering Projects
     layout: list
     content:
       - layout: left #pid-1
@@ -107,9 +108,8 @@ content:
         link: https://colab.research.google.com/drive/1aG3_g9X8F21TmTy_DnFSk-ljSRgPDQas?usp=drive_link
         link_text: Project Code 🔗 
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          - title:  www.google.com
+          - icon: far fa-file-alt
         
         description: |     
           
@@ -167,115 +167,115 @@ content:
           
           Developed a Python script to <mark>extract</mark> and structure data from <mark>Forbes Russia's</mark> list of top 200 private companies. The project involved web scraping techniques to gather <mark>detailed information</mark> including company rankings, names, financial data, industry sectors, management details, and geographical information. The extracted data was then organized into a comprehensive <mark>dataset</mark>, enabling in-depth analysis of Russia's leading private businesses.
           
-          **Technologies:** Python, BeautifulSoup, Pandas, NumPy, Requests, tqd
-    
-  - title: Data Science Projects
-    layout: list
-    content:
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+          **Technologies:** Python, BeautifulSoup, Pandas, NumPy, Requests, tqdm
+
+  # - title: Data Science Projects
+  #   layout: list
+  #   content:
+  #     - layout: left #pid-
+  #       title: Real-time Stock Market Data Pipeline
+  #       link: github.com/sproogen
+  #       link_text: Project Website 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+  #       description: | # this will include new lines to allow paragraphs      
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
 
-          ---
+  #         ---
 
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+  #     - layout: left #pid-
+  #       title: Real-time Stock Market Data Pipeline
+  #       link: github.com/sproogen
+  #       link_text: Project Website 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+  #       description: | # this will include new lines to allow paragraphs      
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
 
-  - title: Data Analytics Projects
-    layout: list
-    content:
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+  # - title: Data Analytics Projects
+  #   layout: list
+  #   content:
+  #     - layout: left #pid-
+  #       title: Real-time Stock Market Data Pipeline
+  #       link: github.com/sproogen
+  #       link_text: Project Website 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+  #       description: | # this will include new lines to allow paragraphs      
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
 
-          ---
+  #         ---
 
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+  #     - layout: left #pid-
+  #       title: Real-time Stock Market Data Pipeline
+  #       link: github.com/sproogen
+  #       link_text: Project Website 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+  #       description: | # this will include new lines to allow paragraphs      
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
          
-  - title: Software Engineering Projects
-    layout: list
-    content:
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+  # - title: Software Engineering Projects
+  #   layout: list
+  #   content:
+  #     - layout: left #pid-
+  #       title: Real-time Stock Market Data Pipeline
+  #       link: github.com/sproogen
+  #       link_text: Project Website 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+  #       description: | # this will include new lines to allow paragraphs      
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
 
-          ---
+  #         ---
 
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+  #     - layout: left #pid-
+  #       title: Real-time Stock Market Data Pipeline
+  #       link: github.com/sproogen
+  #       link_text: Project Website 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+  #       description: | # this will include new lines to allow paragraphs      
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
          
-  - title: Other Projects
-    layout: list
-    content:
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+  # - title: Other Projects
+  #   layout: list
+  #   content:
+  #     - layout: left #pid-
+  #       title: Real-time Stock Market Data Pipeline
+  #       link: github.com/sproogen
+  #       link_text: Project Website 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+  #       description: | # this will include new lines to allow paragraphs      
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
 
-          ---
+  #         ---
 
-      - layout: left #pid-
-        title: Real-time Stock Market Data Pipeline
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+  #     - layout: left #pid-
+  #       title: Real-time Stock Market Data Pipeline
+  #       link: github.com/sproogen
+  #       link_text: Project Website 🔗 
         
-        description: | # this will include new lines to allow paragraphs      
+  #       description: | # this will include new lines to allow paragraphs      
           
-          This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
           
-          **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
          
   # - title: Test Projects
   #   layout: list
