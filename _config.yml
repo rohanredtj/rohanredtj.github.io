@@ -23,6 +23,10 @@ github_username:  rohanredtj
 linkedin_username: rohanredtj
 instagram_username: rohanredtj
 
+# ## **Portfolio Projects**
+# [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
+# <br><br> 
+
 
 additional_links:
 - title: Hire Rohan
@@ -36,10 +40,6 @@ about_content: |
   ## **Expertise**
   <blockquote><span class="block-main"><svg width="12" height="12" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Cloud Platforms</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">Database Design</span> <span class="block-secondary">Data Pipeline Architecture</span> <span class="block-secondary">Version Control</span> <span class="block-secondary">Containerization</span></blockquote>
   
-  ## **Portfolio Projects**
-  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
-  <br><br> 
-
   ## **Bio**
   Rohan is a data professional with 7 years of experience, two master's degrees, and a proven track record of working with US-based companies. His expertise spans the entire data lifecycle, from data engineering and analytics to visualization and machine learning, allowing him to quickly adapt to new technologies and methodologies. Rohan's international exposure, diverse skill set, and eagerness to learn make him well-equipped to tackle complex data challenges and drive impactful solutions in fast-paced environments.
   <br><br> 
@@ -78,8 +78,8 @@ content:
     content:
       - layout: left #pid-1
         title: AWS-Powered Zillow Data Pipeline for Real Estate Analytics
-        link: foo
-        link_text: Code Repository 🔗 
+        link: https://github.com/rohanredtj/aws-zillow-pipeline
+        link_text: Proprietary Work (Sample Code 🔗)  
         
         description: |     
           
@@ -91,8 +91,8 @@ content:
 
       - layout: left #pid-2
         title: Wiktionary Abbreviation Extractor for Legal Documents
-        link: github.com/sproogen
-        link_text: Project Website 🔗 
+        link: https://github.com/rohanredtj/wiktionary-abbreviation-extractor
+        link_text: Proprietary Work (Sample Code 🔗)
         
         description: |
           
@@ -104,8 +104,12 @@ content:
 
       - layout: left #pid-3
         title: Automated Name Parsing for Healthcare Provider Lists
-        link: foo
-        link_text: Code Repository 🔗 
+        link: https://colab.research.google.com/drive/1aG3_g9X8F21TmTy_DnFSk-ljSRgPDQas?usp=drive_link
+        link_text: Project Code 🔗 
+        additional_links:
+          - title:  Project Details
+          - icon: fab fa-github
+          - url: https://drive.google.com/file/d/10jpIEh0clB5KAGy05o_ADhV5tH-ZwWlV/view?usp=drive_link
         
         description: |     
           
