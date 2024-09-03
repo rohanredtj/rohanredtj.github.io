@@ -127,7 +127,7 @@ content:
         
         description: |     
           
-          Developed a robust Python script to <mark>automate</mark> the process of <mark>migrating data</mark> from Snowflake to PostgreSQL. This tool ensures <mark>efficient</mark> and error-free data transfer between disparate database systems. It handles schema creation, table synchronization, and large-scale data movement with <mark>built-in error handling</mark>. The script also generates timestamped schemas for version control and easy rollback if needed.
+          Developed a robust Python script to <mark>automate</mark> the process of <mark>migrating data</mark> from Snowflake to PostgreSQL. This tool ensures <mark>efficient</mark> and error-free data transfer between disparate database systems. It handles schema creation, table synchronization, and large-scale data movement with <mark>built-in error handling</mark>. The script also generates timestamped schemas for version control and easy rollback if needed. <a href="https://drive.google.com/drive/u/0/folders/1sEWOsXl9AJdrZ1154ViQxXf2AlAT3sp0" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Python, SQLAlchemy, Pandas, Snowflake, PostgreSQL, SQL
 
