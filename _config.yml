@@ -108,8 +108,9 @@ content:
         link: https://colab.research.google.com/drive/1aG3_g9X8F21TmTy_DnFSk-ljSRgPDQas?usp=drive_link
         link_text: Project Code 🔗 
         additional_links:
-          - title:  www.google.com
-          - icon: far fa-file-alt
+          - title:  Project Document
+            icon: far fa-file-alt
+            url: https://drive.google.com/file/d/10jpIEh0clB5KAGy05o_ADhV5tH-ZwWlV/view?usp=drive_link
         
         description: |     
           
