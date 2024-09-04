@@ -77,46 +77,46 @@ content:
   # - title: Data Engineering Projects
     layout: list
     content:
-      - layout: left #pid-1
+      - layout: left #pid-1 | AWS-Powered Zillow Data Pipeline for Real Estate Analytics
         title: AWS-Powered Zillow Data Pipeline for Real Estate Analytics
         link: https://github.com/rohanredtj/aws-zillow-pipeline
         link_text: Proprietary Work (Sample Code 🔗)  
         
         description: |     
           
-          Engineered a data pipeline using medallion architecture for <mark>Zillow data</mark>, processing 1GB of daily scraped CSV files from AWS S3. Implemented <mark>data cleaning</mark> and standardization for 180 columns, storing results in Parquet format with Hive partitioning. Deployed as an AWS Lambda function with <mark>scheduled execution</mark> via CloudWatch, optimized for 3GB RAM allocation.
+          Engineered a data pipeline using medallion architecture for <mark>Zillow data</mark>, processing 1GB of daily scraped CSV files from AWS S3. Implemented <mark>data cleaning</mark> and standardization for 180 columns, storing results in Parquet format with Hive partitioning. Deployed as an AWS Lambda function with <mark>scheduled execution</mark> via CloudWatch, optimized for 3GB RAM allocation. <a href="https://drive.google.com/file/d/1rL68kHLu2Z5LXJMa2lstjNVX4ScQE-Vm" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** AWS S3, AWS Lambda, AWS CloudWatch, AWS CLI, Python, Pandas, PyArrow, CSV, Parquet, Hive partitioning
 
           ---
 
-      - layout: left #pid-2
+      - layout: left #pid-2 | Wiktionary Abbreviation Extractor for Legal Documents
         title: Wiktionary Abbreviation Extractor for Legal Documents
         link: https://github.com/rohanredtj/wiktionary-abbreviation-extractor
         link_text: Proprietary Work (Sample Code 🔗)
         
         description: |
           
-          Developed a sophisticated tool to extract and analyze abbreviations from <mark>Wiktionary dumps</mark>. The project involved <mark>parsing</mark> complex data structures, implementing custom algorithms for <mark>abbreviation detection</mark>, and handling various <mark>edge cases</mark> to ensure comprehensive coverage of linguistic variations.
+          Developed a sophisticated tool to extract and analyze abbreviations from <mark>Wiktionary dumps</mark>. The project involved <mark>parsing</mark> complex data structures, implementing custom algorithms for <mark>abbreviation detection</mark>, and handling various <mark>edge cases</mark> to ensure comprehensive coverage of linguistic variations. <a href="https://drive.google.com/file/d/11qORN-eejKRDXU4gUtZ9K6gReftltyUx" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Python, XML processing libraries, regular expressions, data structures, version control (Git), shell scripting
 
           ---
 
-      - layout: left #pid-3
+      - layout: left #pid-3 | PySpark-Based Oil Price Prediction Model
         title: PySpark-Based Oil Price Prediction Model
         link: https://rohanredtj.github.io/#
         link_text: Proprietary Work
         
         description: |     
           
-          Developed a sophisticated <mark>machine learning model</mark> using PySpark to <mark>predict oil prices</mark> based on comprehensive oil field data. This project leveraged big data technologies to process and <mark>analyze</mark> large-scale datasets, enhancing decision-making capabilities in the energy sector. The model incorporated various predictive techniques, including Facebook Prophet, and was <mark>deployed</mark> on AWS infrastructure for scalable performance and real-time insights.
+          Developed a sophisticated <mark>machine learning model</mark> using PySpark to <mark>predict oil prices</mark> based on comprehensive oil field data. This project leveraged big data technologies to process and <mark>analyze</mark> large-scale datasets, enhancing decision-making capabilities in the energy sector. The model incorporated various predictive techniques, including Facebook Prophet, and was <mark>deployed</mark> on AWS infrastructure for scalable performance and real-time insights. <a href="https://drive.google.com/file/d/10Iw-aw1UkWZfd7xZuEdnhKuP0u_ppZkr" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** PySpark, AWS EC2 (r5.2xlarge instances), Jupyter Notebook, Facebook Prophet, Scikit-learn, Apache Superset, AWS S3, SSH, Python
 
           ---
 
-      - layout: left #pid-4
+      - layout: left #pid-4 | Database Migration from Snowflake to PostgreSQL
         title: Database Migration from Snowflake to PostgreSQL
         link: https://github.com/rohanredtj/snowflake-to-postgres
         link_text: Project Code 🔗 
@@ -127,13 +127,13 @@ content:
         
         description: |     
           
-          Developed a robust Python script to <mark>automate</mark> the process of <mark>migrating data</mark> from Snowflake to PostgreSQL. This tool ensures <mark>efficient</mark> and error-free data transfer between disparate database systems. It handles schema creation, table synchronization, and large-scale data movement with <mark>built-in error handling</mark>. The script also generates timestamped schemas for version control and easy rollback if needed. <a href="https://drive.google.com/drive/u/0/folders/1sEWOsXl9AJdrZ1154ViQxXf2AlAT3sp0" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          Developed a robust Python script to <mark>automate</mark> the process of <mark>migrating data</mark> from Snowflake to PostgreSQL. This tool ensures <mark>efficient</mark> and error-free data transfer between disparate database systems. It handles schema creation, table synchronization, and large-scale data movement with <mark>built-in error handling</mark>. The script also generates timestamped schemas for version control and easy rollback if needed. <a href="https://drive.google.com/file/d/11jFpgXil8EomlGrV_S6AAaZOt38fjC0b" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Python, SQLAlchemy, Pandas, Snowflake, PostgreSQL, SQL
 
           ---
 
-      - layout: left #pid-5
+      - layout: left #pid-5 | Automated Name Parsing for Healthcare Provider Lists
         title: Automated Name Parsing for Healthcare Provider Lists
         link: https://colab.research.google.com/drive/1aG3_g9X8F21TmTy_DnFSk-ljSRgPDQas?usp=drive_link
         link_text: Project Code 🔗 
@@ -144,13 +144,13 @@ content:
         
         description: |     
           
-          Engineered a sophisticated Python-based system utilizing OpenAI to automate the <mark>extraction and parsing</mark> of healthcare provider information from diverse state-specific files. The system adeptly handles multiple file formats including PDF, Excel, and CSV, processing data from over <mark>10 different states</mark>. It manages complex variations in data structure, ensuring clean and accurate output for <mark>internal compliance</mark> and monitoring use.
+          Engineered a sophisticated Python-based system utilizing OpenAI to automate the <mark>extraction and parsing</mark> of healthcare provider information from diverse state-specific files. The system adeptly handles multiple file formats including PDF, Excel, and CSV, processing data from over <mark>10 different states</mark>. It manages complex variations in data structure, ensuring clean and accurate output for <mark>internal compliance</mark> and monitoring use. <a href="https://drive.google.com/file/d/10jpIEh0clB5KAGy05o_ADhV5tH-ZwWlV" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Python, OpenAI API, CSV handling libraries, Time management and logging tools
 
           ---
 
-      - layout: left #pid-6
+      - layout: left #pid-6 | Web Scraping Forbes Russia Top 200 Private Companies
         title: Web Scraping Forbes Russia Top 200 Private Companies
         link: https://colab.research.google.com/drive/1TJsT8sICYtkmeikV2H1kojG_aubV--4S?usp=sharing
         link_text: Project Code 🔗
@@ -161,11 +161,11 @@ content:
         
         description: |
           
-          Developed a Python script to <mark>extract</mark> and structure data from <mark>Forbes Russia's</mark> list of top 200 private companies. The project involved web scraping techniques to gather <mark>detailed information</mark> including company rankings, names, financial data, industry sectors, management details, and geographical information. The extracted data was then organized into a comprehensive <mark>dataset</mark>, enabling in-depth analysis of Russia's leading private businesses.
+          Developed a Python script to <mark>extract</mark> and structure data from <mark>Forbes Russia's</mark> list of top 200 private companies. The project involved web scraping techniques to gather <mark>detailed information</mark> including company rankings, names, financial data, industry sectors, management details, and geographical information. The extracted data was then organized into a comprehensive <mark>dataset</mark>, enabling in-depth analysis of Russia's leading private businesses. <a href="https://drive.google.com/file/d/1HYqJTY0_iO6vJimLq-FhVoSCaKSPOObe" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Python, BeautifulSoup, Pandas, NumPy, Requests, tqdm
 
-      - layout: left #pid-7
+      - layout: left #pid-7 | Anime Season Scraper Web Scraping Tool for MyAnimeList
         title: Anime Season Scraper Web Scraping Tool for MyAnimeList
         link: https://colab.research.google.com/drive/1gOYiXsQ7g-83GPFfpBjDfiqex_X1jHuF?usp=sharing
         link_text: Project Code 🔗
@@ -176,7 +176,7 @@ content:
         
         description: |     
           
-          This project developed a web <mark>scraping</mark> tool to collect seasonal <mark>anime data</mark> from MyAnimeList. The script uses the MyAnimeList API to fetch information about anime releases for specified years and seasons. It then processes and organizes this data into a <mark>structured format</mark> using Pandas, saving the results as a CSV file for further analysis or use in other applications.
+          This project developed a web <mark>scraping</mark> tool to collect seasonal <mark>anime data</mark> from MyAnimeList. The script uses the MyAnimeList API to fetch information about anime releases for specified years and seasons. It then processes and organizes this data into a <mark>structured format</mark> using Pandas, saving the results as a CSV file for further analysis or use in other applications. <a href="https://drive.google.com/file/d/15qBzkr_Z3m0hdmlWneWu5yPtdq2niXy1" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Python, Pandas, Requests, MyAnimeList API
 
