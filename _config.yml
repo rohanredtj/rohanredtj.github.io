@@ -105,7 +105,7 @@ content:
 
       - layout: left #pid-3 | PySpark-Based Oil Price Prediction Model
         title: PySpark-Based Oil Price Prediction Model
-        link: https://rohanredtj.github.io/#
+        link: /#
         link_text: Proprietary Work
         
         description: |     
@@ -120,11 +120,7 @@ content:
         title: Database Migration from Snowflake to PostgreSQL
         link: https://github.com/rohanredtj/snowflake-to-postgres
         link_text: Project Code 🔗 
-        additional_links:
-          - title:  Project Document
-            icon: far fa-file-alt
-            url: drive.google.com/file/d/11jFpgXil8EomlGrV_S6AAaZOt38fjC0b/view?usp=sharing
-        
+
         description: |     
           
           Developed a robust Python script to <mark>automate</mark> the process of <mark>migrating data</mark> from Snowflake to PostgreSQL. This tool ensures <mark>efficient</mark> and error-free data transfer between disparate database systems. It handles schema creation, table synchronization, and large-scale data movement with <mark>built-in error handling</mark>. The script also generates timestamped schemas for version control and easy rollback if needed. <a href="https://drive.google.com/file/d/11jFpgXil8EomlGrV_S6AAaZOt38fjC0b" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
@@ -137,10 +133,6 @@ content:
         title: Automated Name Parsing for Healthcare Provider Lists
         link: https://colab.research.google.com/drive/1aG3_g9X8F21TmTy_DnFSk-ljSRgPDQas?usp=drive_link
         link_text: Project Code 🔗 
-        additional_links:
-          - title:  Project Document
-            icon: far fa-file-alt
-            url: drive.google.com/file/d/10jpIEh0clB5KAGy05o_ADhV5tH-ZwWlV/view?usp=drive_link
         
         description: |     
           
@@ -154,10 +146,6 @@ content:
         title: Web Scraping Forbes Russia Top 200 Private Companies
         link: https://colab.research.google.com/drive/1TJsT8sICYtkmeikV2H1kojG_aubV--4S?usp=sharing
         link_text: Project Code 🔗
-        additional_links:
-          - title:  Project Document
-            icon: far fa-file-alt
-            url: drive.google.com/file/d/1HYqJTY0_iO6vJimLq-FhVoSCaKSPOObe/view?usp=sharing
         
         description: |
           
@@ -169,10 +157,6 @@ content:
         title: Anime Season Scraper Web Scraping Tool for MyAnimeList
         link: https://colab.research.google.com/drive/1gOYiXsQ7g-83GPFfpBjDfiqex_X1jHuF?usp=sharing
         link_text: Project Code 🔗
-        additional_links:
-          - title:  Project Document
-            icon: far fa-file-alt
-            url: drive.google.com/file/d/1HYqJTY0_iO6vJimLq-FhVoSCaKSPOObe/view?usp=sharing
         
         description: |     
           
