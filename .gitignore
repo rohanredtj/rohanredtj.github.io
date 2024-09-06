@@ -1,3 +1,4 @@
+_config_dev.yml
 *.gem
 .bundle
 .sass-cache
