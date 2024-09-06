@@ -78,11 +78,10 @@ about_content: |
 
 content:
 
-  - title: Portfolio Projects
   - title: Data Engineering Projects
     layout: list
     content:
-      - layout: left #pid-/1-1 | AWS-Powered Zillow Data Pipeline for Real Estate Analytics
+      - layout: left #pid-52/1-1 | AWS-Powered Zillow Data Pipeline for Real Estate Analytics
         title: AWS-Powered Zillow Data Pipeline for Real Estate Analytics
         link: https://github.com/rohanredtj/aws-zillow-pipeline
         link_text: Proprietary Work (Sample Code 🔗)  
@@ -95,7 +94,7 @@ content:
 
           ---
 
-      - layout: left #pid-/1-2 | Wiktionary Abbreviation Extractor for Legal Documents
+      - layout: left #pid-59/1-2 | Wiktionary Abbreviation Extractor for Legal Documents
         title: Wiktionary Abbreviation Extractor for Legal Documents
         link: https://github.com/rohanredtj/wiktionary-abbreviation-extractor
         link_text: Proprietary Work (Sample Code 🔗)
@@ -108,7 +107,7 @@ content:
 
           ---
 
-      - layout: left #pid-/1-3 | PySpark-Based Oil Price Prediction Model
+      - layout: left #pid-15/1-3 | PySpark-Based Oil Price Prediction Model
         title: PySpark-Based Oil Price Prediction Model
         link: /#
         link_text: Proprietary Work
@@ -121,7 +120,7 @@ content:
 
           ---
 
-      - layout: left #pid-/1-4 | Database Migration from Snowflake to PostgreSQL
+      - layout: left #pid-10/1-4 | Database Migration from Snowflake to PostgreSQL
         title: Database Migration from Snowflake to PostgreSQL
         link: https://github.com/rohanredtj/snowflake-to-postgres
         link_text: Project Code 🔗 
@@ -134,7 +133,7 @@ content:
 
           ---
 
-      - layout: left #pid-/1-5 | Automated Name Parsing for Healthcare Provider Lists
+      - layout: left #pid-8/1-5 | Automated Name Parsing for Healthcare Provider Lists
         title: Automated Name Parsing for Healthcare Provider Lists
         link: https://colab.research.google.com/drive/1aG3_g9X8F21TmTy_DnFSk-ljSRgPDQas?usp=drive_link
         link_text: Project Code 🔗 
@@ -147,7 +146,7 @@ content:
 
           ---
 
-      - layout: left #pid-/1-6 | Web Scraping Forbes Russia Top 200 Private Companies
+      - layout: left #pid-22/1-6 | Web Scraping Forbes Russia Top 200 Private Companies
         title: Web Scraping Forbes Russia Top 200 Private Companies
         link: https://colab.research.google.com/drive/1TJsT8sICYtkmeikV2H1kojG_aubV--4S?usp=sharing
         link_text: Project Code 🔗
@@ -158,7 +157,7 @@ content:
           
           **Technologies:** Python, BeautifulSoup, Pandas, NumPy, Requests, tqdm
 
-      - layout: left #pid-/1-7 | Anime Season Scraper Web Scraping Tool for MyAnimeList
+      - layout: left #pid-31/1-7 | Anime Season Scraper Web Scraping Tool for MyAnimeList
         title: Anime Season Scraper Web Scraping Tool for MyAnimeList
         link: https://colab.research.google.com/drive/1gOYiXsQ7g-83GPFfpBjDfiqex_X1jHuF?usp=sharing
         link_text: Project Code 🔗
