@@ -23,6 +23,7 @@ github_username:  rohanredtj
 linkedin_username: rohanredtj
 instagram_username: rohanredtj
 
+
 # ## **Portfolio Projects**
 # [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
 # <br><br> 
@@ -39,6 +40,10 @@ about_content: |
 
   ## **Expertise**
   <blockquote><span class="block-main"><svg width="12" height="12" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Cloud Platforms</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">Database Design</span> <span class="block-secondary">Data Pipeline Architecture</span> <span class="block-secondary">Version Control</span> <span class="block-secondary">Containerization</span></blockquote>
+  
+  ## **Portfolio Projects**
+  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects)
+  <br><br> 
   
   ## **Bio**
   Rohan is a data professional with 7 years of experience, two master's degrees, and a proven track record of working with US-based companies. His expertise spans the entire data lifecycle, from data engineering and analytics to visualization and machine learning, allowing him to quickly adapt to new technologies and methodologies. Rohan's international exposure, diverse skill set, and eagerness to learn make him well-equipped to tackle complex data challenges and drive impactful solutions in fast-paced environments.
@@ -74,10 +79,10 @@ about_content: |
 content:
 
   - title: Portfolio Projects
-  # - title: Data Engineering Projects
+  - title: Data Engineering Projects
     layout: list
     content:
-      - layout: left #pid-1 | AWS-Powered Zillow Data Pipeline for Real Estate Analytics
+      - layout: left #pid-/1-1 | AWS-Powered Zillow Data Pipeline for Real Estate Analytics
         title: AWS-Powered Zillow Data Pipeline for Real Estate Analytics
         link: https://github.com/rohanredtj/aws-zillow-pipeline
         link_text: Proprietary Work (Sample Code 🔗)  
@@ -90,7 +95,7 @@ content:
 
           ---
 
-      - layout: left #pid-2 | Wiktionary Abbreviation Extractor for Legal Documents
+      - layout: left #pid-/1-2 | Wiktionary Abbreviation Extractor for Legal Documents
         title: Wiktionary Abbreviation Extractor for Legal Documents
         link: https://github.com/rohanredtj/wiktionary-abbreviation-extractor
         link_text: Proprietary Work (Sample Code 🔗)
@@ -103,7 +108,7 @@ content:
 
           ---
 
-      - layout: left #pid-3 | PySpark-Based Oil Price Prediction Model
+      - layout: left #pid-/1-3 | PySpark-Based Oil Price Prediction Model
         title: PySpark-Based Oil Price Prediction Model
         link: /#
         link_text: Proprietary Work
@@ -116,7 +121,7 @@ content:
 
           ---
 
-      - layout: left #pid-4 | Database Migration from Snowflake to PostgreSQL
+      - layout: left #pid-/1-4 | Database Migration from Snowflake to PostgreSQL
         title: Database Migration from Snowflake to PostgreSQL
         link: https://github.com/rohanredtj/snowflake-to-postgres
         link_text: Project Code 🔗 
@@ -129,7 +134,7 @@ content:
 
           ---
 
-      - layout: left #pid-5 | Automated Name Parsing for Healthcare Provider Lists
+      - layout: left #pid-/1-5 | Automated Name Parsing for Healthcare Provider Lists
         title: Automated Name Parsing for Healthcare Provider Lists
         link: https://colab.research.google.com/drive/1aG3_g9X8F21TmTy_DnFSk-ljSRgPDQas?usp=drive_link
         link_text: Project Code 🔗 
@@ -142,7 +147,7 @@ content:
 
           ---
 
-      - layout: left #pid-6 | Web Scraping Forbes Russia Top 200 Private Companies
+      - layout: left #pid-/1-6 | Web Scraping Forbes Russia Top 200 Private Companies
         title: Web Scraping Forbes Russia Top 200 Private Companies
         link: https://colab.research.google.com/drive/1TJsT8sICYtkmeikV2H1kojG_aubV--4S?usp=sharing
         link_text: Project Code 🔗
@@ -153,7 +158,7 @@ content:
           
           **Technologies:** Python, BeautifulSoup, Pandas, NumPy, Requests, tqdm
 
-      - layout: left #pid-7 | Anime Season Scraper Web Scraping Tool for MyAnimeList
+      - layout: left #pid-/1-7 | Anime Season Scraper Web Scraping Tool for MyAnimeList
         title: Anime Season Scraper Web Scraping Tool for MyAnimeList
         link: https://colab.research.google.com/drive/1gOYiXsQ7g-83GPFfpBjDfiqex_X1jHuF?usp=sharing
         link_text: Project Code 🔗
@@ -166,32 +171,47 @@ content:
 
           ---
 
-  # - title: Data Science Projects
-  #   layout: list
-  #   content:
-  #     - layout: left #pid-
-  #       title: Real-time Stock Market Data Pipeline
-  #       link: github.com/sproogen
-  #       link_text: Project Website 🔗 
+  - title: Data Science Projects
+    layout: list
+    content:
+      - layout: left #pid-1/2-2 | YouTube Insights Analysis for Channel Performance
+        title: YouTube Insights Analysis for Channel Performance
+        link: https://colab.research.google.com/drive/1QWBifUwjdk7RVRA_-wHO2j9lEcIQlLq9
+        link_text: Project Code 🔗
         
-  #       description: | # this will include new lines to allow paragraphs      
+        description: |     
           
-  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
-          
-  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+          Conducted comprehensive <mark>data analysis</mark> on global YouTube statistics to uncover <mark>success factors</mark> for top channels. Employed <mark>machine learning</mark> techniques, including Random Forest Classifier, to identify key performance indicators. <mark>Visualized</mark> insights through <mark>geospatial</mark> analysis using GeoPandas. Explored correlations between channel metrics, subscriber growth, and earnings. Analyzed <mark>popular content</mark> categories and regional influencers' global impact. Developed <mark>actionable insights</mark> for content creators to optimize channel performance. <a href="https://drive.google.com/file/d/1eptYghvHy2rS7Oeq12cV8TaUHCjHdW6d" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
 
-  #         ---
+          **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, GeoPandas, Google Colab
 
-  #     - layout: left #pid-
-  #       title: Real-time Stock Market Data Pipeline
-  #       link: github.com/sproogen
-  #       link_text: Project Website 🔗 
+          ---
+
+      - layout: left #pid-9/2-3 | PDF Q&A Bestie - LLM RAG
+        title: PDF Q&A Bestie - LLM RAG
+        link: https://github.com/rohanredtj/QnA-Bestie-On-PDF
+        link_text: Project Code 🔗
         
-  #       description: | # this will include new lines to allow paragraphs      
+        description: |
           
-  #         This project implements a real-time data pipeline that ingests stock market data, processes it, and provides actionable insights through an interactive dashboard. Using Apache Kafka for data streaming, Apache Spark for processing, and Tableau for visualization, the system handles high-volume financial data with low latency, enabling traders to make informed decisions quickly.
+          PDF Q&A Bestie is an innovative app that enables users to <mark>upload PDF</mark> files and <mark>ask questions</mark> about their content. Powered by the <mark>Llama2</mark> AI model, it provides <mark>accurate answers</mark> extracted directly from the uploaded documents. This project leverages Replicate API to offer a computationally efficient solution with a free quota, making advanced AI capabilities accessible to users. <a href="https://drive.google.com/file/d/1D9mFPPEaznibyRoe3mmxQ7M5" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
-  #         **Technologies:** Informatica, BMC Remedy, Shell Scripting, Python, APIs, Java, Perl, SQL, ETL, ETL Development
+          **Technologies:** Llama2, Replicate API, Langchain, Pinecone, Streamlit, Python, Hugging Face Embeddings, PyPDF Loader
+
+          ---
+
+      - layout: left #pid-61/2-4 | Data Science Consulting for Real Estate
+        title: Data Science Consulting for Real Estate
+        link: https://www.kaggle.com/code/rohankaggler/property-price-prediction
+        link_text: Project Code 🔗
+        
+        description: |
+          
+          Conducted data analysis and <mark>business consulting</mark> for client's portfolio companies. Analyzed UK housing prices to provide actionable insights and propose advanced <mark>analytics strategies</mark>. Performed descriptive, exploratory, and <mark>predictive analyses</mark> to enhance business operations and decision-making. Delivered comprehensive presentations to company executives, focusing on <mark>data-driven</mark> solutions and value extraction from available datasets. <a href="https://drive.google.com/file/d/1RSfnalGbckeHN7w2WVCKe4TXrJ_8iOpU" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** R, Data Visualization, Statistical Analysis, Geospatial Analysis, Large Dataset, Kaggle Notebook
+
+          ---
 
   # - title: Data Analytics Projects
   #   layout: list
