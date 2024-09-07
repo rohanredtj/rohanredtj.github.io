@@ -76,6 +76,7 @@ content:
   - title: Data Engineering Projects
     layout: list
     content:
+
       - layout: left #pid-52/1-1 | AWS-Powered Zillow Data Pipeline for Real Estate Analytics
         title: AWS-Powered Zillow Data Pipeline for Real Estate Analytics
         link: https://github.com/rohanredtj/aws-zillow-pipeline
@@ -167,6 +168,20 @@ content:
   - title: Data Science Projects
     layout: list
     content:
+
+      - layout: left #pid-12/2-1 | System Cancel Rate Prediction Model
+        title: System Cancel Rate Prediction Model
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Developed a machine learning model to accurately <mark>predict</mark> the system cancel rate for new jobs using pre-defined features. This model significantly <mark>improves</mark> customer lifetime value <mark>(LTV)</mark> predictions, enabling more efficient <mark>paid marketing</mark> campaigns and optimizing cleaner acquisition strategies. The project directly impacts business growth and operational efficiency. <a href="https://drive.google.com/file/d/1xg6tEgERrGU0m7Q50_xosdY3AL0U-c0G" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, Machine Learning, Keras, Optuna, Data Analysis, Feature Engineering, Data Visualization
+
+          ---
+
       - layout: left #pid-1/2-2 | YouTube Insights Analysis for Channel Performance
         title: YouTube Insights Analysis for Channel Performance
         link: https://colab.research.google.com/drive/1QWBifUwjdk7RVRA_-wHO2j9lEcIQlLq9
@@ -200,9 +215,22 @@ content:
         
         description: |
           
-          Conducted data analysis and <mark>business consulting</mark> for client's portfolio companies. Analyzed UK housing prices to provide actionable insights and propose advanced <mark>analytics strategies</mark>. Performed descriptive, exploratory, and <mark>predictive analyses</mark> to enhance business operations and decision-making. Delivered comprehensive presentations to company executives, focusing on <mark>data-driven</mark> solutions and value extraction from available datasets. <a href="https://drive.google.com/file/d/1RSfnalGbckeHN7w2WVCKe4TXrJ_8iOpU" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          Conducted data analysis and <mark>business consulting</mark> for client's portfolio companies. Analyzed UK housing prices to provide actionable insights and propose advanced <mark>analytics strategies</mark>. Performed descriptive, exploratory, and <mark>predictive analyses</mark> to enhance business operations and decision-making. Delivered comprehensive presentations to company executives, focusing on <mark>data-driven</mark> solutions and value extraction from available datasets. <a href="https://drive.google.com/file/d/1iktbuAjz3H3LJmkt1FlJa0TXBgpk1m4p" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** R, Data Visualization, Statistical Analysis, Geospatial Analysis, Large Dataset, Kaggle Notebook
+
+          ---
+
+      - layout: left #pid-14/2-9 | Predictive Model for Recruitment Time Estimation
+        title: Predictive Model for Recruitment Time Estimation
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Developed an advanced machine learning model to <mark>predict</mark> recruitment <mark>fill times</mark> for job postings. The project involved data preprocessing, feature engineering, and implementing multiple XGBoost models for different <mark>pay structures</mark>. The final model significantly <mark>outperformed</mark> the baseline, enabling data-driven hiring strategies and significantly enhancing workforce planning efficiency. <a href="https://drive.google.com/file/d/1XHsm98nSaCGYXdwePMqVfTDJpJkEHwxP" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, XGBoost, Keras-TensorFlow, Feature Engineering, RMSE, Time Series Analysis
 
 
 footer_show_references: false
