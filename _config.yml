@@ -221,6 +221,19 @@ content:
 
           ---
 
+      - layout: left #pid-18/2-8 | Product Recommendation System with LightGBM and Optuna
+        title: Product Recommendation System with LightGBM and Optuna
+        link: https://github.com/rohanredtj/product-recommendation-lightgbm
+        link_text: Project Code 🔗
+        
+        description: |
+          
+          Developed an advanced product recommendation system using machine learning techniques. The project involved data preprocessing, <mark>feature engineering</mark>, and model optimization to predict customer purchases. Implemented cross-validation for <mark>robust evaluation</mark> and utilized Optuna for hyperparameter tuning. The system aims to enhance <mark>sales predictions</mark> and improve <mark>customer targeting</mark> for a more efficient sales strategy. <a href="https://drive.google.com/file/d/1sLJ8FKL913tpiqgpQrc3Da4qPEQR_s85" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, pandas, scikit-learn, LightGBM, Optuna, NumPy, Tmux
+
+          ---
+
       - layout: left #pid-14/2-9 | Predictive Model for Recruitment Time Estimation
         title: Predictive Model for Recruitment Time Estimation
         link: /#
@@ -231,6 +244,30 @@ content:
           Developed an advanced machine learning model to <mark>predict</mark> recruitment <mark>fill times</mark> for job postings. The project involved data preprocessing, feature engineering, and implementing multiple XGBoost models for different <mark>pay structures</mark>. The final model significantly <mark>outperformed</mark> the baseline, enabling data-driven hiring strategies and significantly enhancing workforce planning efficiency. <a href="https://drive.google.com/file/d/1XHsm98nSaCGYXdwePMqVfTDJpJkEHwxP" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Python, XGBoost, Keras-TensorFlow, Feature Engineering, RMSE, Time Series Analysis
+
+      - layout: left #pid-26/2-10 | Dialogflow Based Intelligent Virtual Assistant Chatbot
+        title: Dialogflow Based Intelligent Virtual Assistant Chatbot
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Developed a <mark>chatbot</mark> to provide instant responses to prospective applicants' queries about an educational program. The chatbot automates <mark>FAQ handling</mark>, enhances user satisfaction, and streamlines communication across multiple platforms, including the institution's website and social media channels. It features intent recognition, multi-language support, and <mark>seamless integration</mark> with existing systems. The solution significantly reduces response times and improves <mark>information accessibility</mark> for potential students. <a href="https://drive.google.com/file/d/1r3fIrhY_QVmVZgnqBHcEWbVx7SoCg2az" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Dialogflow, Python, HTTPS Protocol, Social Media APIs
+
+      - layout: left #pid-17/2-11 | Angel Companies Prediction System
+        title: Angel Companies Prediction System
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Developed an AI-powered system to predict "Angels" for <mark>new accounts</mark> using machine learning and <mark>Google Search API</mark>. The system processes account data, <mark>extracts information</mark> from the internet, and utilizes a trained model to make predictions. Achieved a global accuracy of 62.38% on unseen data, with the ability to increase accuracy to 98.99% by implementing a <mark>confidence threshold</mark>. <a href="https://drive.google.com/file/d/1-h8zPJc1NzX68kj1H2Ez2GX1Cr0C3ohj" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, scikit-learn, Google Search API, NLTK, Pandas, NumPy, Pickle
+
+          ---
 
 
 footer_show_references: false
