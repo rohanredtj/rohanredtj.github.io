@@ -345,7 +345,7 @@ content:
         
         description: |
           
-          Developed a comprehensive sales tracking board to <mark>monitor</mark> and analyze <mark>sales associate</mark> performance. The dashboard features KPI tracking, scoreboard metrics, and visual representations of sales data. It allows for time-based <mark>filtering</mark> and provides a clear ranking system for sales associates. This tool enhances <mark>performance visibility/mark> and facilitates data-driven decision making in the sales department. <a href="https://drive.google.com/file/d/1gARfu23bbhtUQnqaYZ_AZJbY3sqmvqIF" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          Developed a comprehensive sales tracking board to <mark>monitor</mark> and analyze <mark>sales associate</mark> performance. The dashboard features KPI tracking, scoreboard metrics, and visual representations of sales data. It allows for time-based <mark>filtering</mark> and provides a clear ranking system for sales associates. This tool enhances <mark>performance visibility</mark> and facilitates data-driven decision making in the sales department. <a href="https://drive.google.com/file/d/1gARfu23bbhtUQnqaYZ_AZJbY3sqmvqIF" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Looker Studio, SQL, Google Sheets
 
