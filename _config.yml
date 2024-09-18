@@ -37,7 +37,7 @@ about_content: |
   <blockquote><span class="block-main"><svg width="12" height="12" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Cloud Platforms</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">Database Design</span> <span class="block-secondary">Data Pipeline Architecture</span> <span class="block-secondary">Version Control</span> <span class="block-secondary">Containerization</span></blockquote>
   
   ## **Portfolio Projects**
-  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects)
+  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects)
   <br><br> 
   
   ## **Bio**
@@ -221,6 +221,19 @@ content:
 
           ---
 
+      - layout: left #pid-40/2-7 | Churn Prediction Model using XGBoost for Zenefits
+        title: Churn Prediction Model using XGBoost for Zenefits
+        link: https://colab.research.google.com/drive/1iJuzr62APaozFEF_WV_12WofcRqQ1r1r
+        link_text: Project Code 🔗
+        
+        description: |
+          
+          Developed a machine learning model to <mark>predict</mark> customer <mark>churn</mark> using XGBoost, an advanced gradient boosting algorithm. Achieved <mark>high accuracy</mark> and AUC scores through feature engineering and hyperparameter tuning. Implemented cross-validation for model optimization. This project enhanced the company's ability to proactively <mark>retain customers</mark> and improve business outcomes. <a href="https://drive.google.com/file/d/1d1wc_LWn1MUnRFg61mEaVyoJkrSmm8ba" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, XGBoost, Pandas, NumPy, Scikit-learn, Matplotlib
+
+          ---
+
       - layout: left #pid-18/2-8 | Product Recommendation System with LightGBM and Optuna
         title: Product Recommendation System with LightGBM and Optuna
         link: https://github.com/rohanredtj/product-recommendation-lightgbm
@@ -268,6 +281,73 @@ content:
           **Technologies:** Python, scikit-learn, Google Search API, NLTK, Pandas, NumPy, Pickle
 
           ---
+
+      - layout: left #pid-36/2-13 | Inter-Annotator Agreement Analysis Tool for Hematology Analyzer 
+        title: Inter-Annotator Agreement Analysis Tool for Hematology Analyzer 
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Developed a Python-based tool to <mark>calculate</mark> and analyze inter-annotator agreement using Fleiss' Kappa and Krippendorff's Alpha <mark>metrics</mark>. The project involved implementing statistical algorithms, handling complex data structures, and interpreting results to assess <mark>reliability</mark> in annotation tasks. Explored limitations of agreement measures and their implications for <mark>data quality</mark> assessment in machine learning application of hematology. <a href="https://drive.google.com/file/d/1Ui-Go-VM4-hI9ovSDoPSQaqigYerE-sn" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, NumPy, statsmodels, Krippendorff
+
+          ---
+
+      - layout: left #pid-39/2-14 | Berkeley/Stanford Parser Evaluation and Analysis
+        title: Berkeley/Stanford Parser Evaluation and Analysis
+        link: https://github.com/rohanredtj/1_NLP_Parser/blob/master/berkely_stanford_parser_evalb.ipynb
+        link_text: Project Code 🔗
+        
+        description: |
+          
+          Implemented and evaluated the <mark>performance</mark> of the Berkeley and Stanford parsers on the Wall Street Journal <mark>corpus</mark>. Developed custom Python scripts to calculate parsing <mark>accuracy</mark> metrics like precision, recall, and F1 score. Conducted <mark>comparative analysis</mark> of parser outputs using the EVALB scoring program and visualized results. <a href="https://drive.google.com/file/d/1oRSf3-IbD_xBKeBPdRax2mrIqmGJk9RD" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, NLTK, Pandas, Matplotlib, Berkeley Parser, Stanford Parser, EVALB Evaluation
+
+
+  - title: Data Analytics Projects
+    layout: list
+    content:
+
+
+      - layout: left #pid-11/3-2 | Reverse ETL based Customer Data Integration Platform with Metabase
+        title: Reverse ETL based Customer Data Integration Platform with Metabase
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Engineered a centralized reverse ETL customer data store, seamlessly <mark>integrating</mark> Hubspot, Klaviyo, and website tracking sources. Implemented robust <mark>data synchronization</mark> and conflict resolution mechanisms to ensure data integrity across platforms. Leveraged dbt for efficient data transformation and SQL for complex queries, creating a comprehensive, <mark>unified view</mark> of customer data, and visualization based on it in Metabase. This solution streamlined customer analytics and enabled more <mark>targeted marketing</mark> strategies. <a href="https://drive.google.com/file/d/1fCHU4JaJEkwM7tWxbhdFJL7jMWYKhC-j" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** DBT, Metabase, SQL, BigQuery, Airbyte, RudderStack, Klaviyo, Hubspot
+
+          ---
+
+      - layout: left #pid-13/3-6 | Superset Dashboard for Process Scoring System
+        title: Superset Dashboard for Process Scoring System
+        link: https://github.com/rohanredtj/1_NLP_Parser/blob/master/berkely_stanford_parser_evalb.ipynb
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Developed a scoring dashboard using Apache Superset to analyze and <mark>visualize performance</mark> metrics across multiple dimensions. Implemented time-based reporting, <mark>weighted scoring</mark>, and user comparison features. Integrated with MySQL database and explored materialized views for efficient data handling. Investigated API integrations and webhook implementations to enable <mark>real-time</mark> dashboard updates and notifications. <a href="https://drive.google.com/file/d/16LN9N7Y3FpOVzYEe3CpPhnHyJpIfk8v8" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Apache Superset, MySQL, Flask, Jinja, Docker, Git, RESTful APIs, Webhooks
+
+          ---
+
+      - layout: left #pid-4/3-7 | Sales Performance Tracking Dashboard using Looker
+        title: Sales Performance Tracking Dashboard using Looker
+        link: https://lookerstudio.google.com/reporting/2bb9d789-cfc0-408c-8e6c-ff4a2a1e7917
+        link_text: Proprietary Work (Sample Dashboard)
+        
+        description: |
+          
+          Developed a comprehensive sales tracking board to <mark>monitor</mark> and analyze <mark>sales associate</mark> performance. The dashboard features KPI tracking, scoreboard metrics, and visual representations of sales data. It allows for time-based <mark>filtering</mark> and provides a clear ranking system for sales associates. This tool enhances <mark>performance visibility/mark> and facilitates data-driven decision making in the sales department. <a href="https://drive.google.com/file/d/1gARfu23bbhtUQnqaYZ_AZJbY3sqmvqIF" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Looker Studio, SQL, Google Sheets
 
 
 footer_show_references: false
