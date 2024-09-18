@@ -326,8 +326,8 @@ content:
           ---
 
       - layout: left #pid-13/3-6 | Superset Dashboard for Process Scoring System
-        title: /#
-        link: https://github.com/rohanredtj/1_NLP_Parser/blob/master/berkely_stanford_parser_evalb.ipynb
+        title: Superset Dashboard for Process Scoring System
+        link: /#
         link_text: Proprietary Work
         
         description: |
