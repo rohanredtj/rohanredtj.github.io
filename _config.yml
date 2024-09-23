@@ -37,7 +37,7 @@ about_content: |
   <blockquote><span class="block-main"><svg width="12" height="12" viewBox="0 0 14 14" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m7 10.5-4.114 2.163.785-4.581L.343 4.837l4.6-.669L7 0l2.057 4.168 4.6.669-3.328 3.245.785 4.581z"></path></svg>Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Cloud Platforms</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">Database Design</span> <span class="block-secondary">Data Pipeline Architecture</span> <span class="block-secondary">Version Control</span> <span class="block-secondary">Containerization</span></blockquote>
   
   ## **Portfolio Projects**
-  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects)
+  [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
   <br><br> 
   
   ## **Bio**
@@ -126,6 +126,19 @@ content:
           Developed a robust Python script to <mark>automate</mark> the process of <mark>migrating data</mark> from Snowflake to PostgreSQL. This tool ensures <mark>efficient</mark> and error-free data transfer between disparate database systems. It handles schema creation, table synchronization, and large-scale data movement with <mark>built-in error handling</mark>. The script also generates timestamped schemas for version control and easy rollback if needed. <a href="https://drive.google.com/file/d/11jFpgXil8EomlGrV_S6AAaZOt38fjC0b" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Python, SQLAlchemy, Pandas, Snowflake, PostgreSQL, SQL
+
+          ---
+
+      - layout: left #pid-62/1-4.5 | Google Search Console Data Extraction and BigQuery Integration
+        title: Google Search Console Data Extraction and BigQuery Integration
+        link: /#
+        link_text: Proprietary Work
+
+        description: |     
+          
+          Developed a Python-based tool to automate the <mark>extraction</mark> of Google Search Console (GSC) data and seamlessly <mark>integrate</mark> it with Google BigQuery (GBQ). This project streamlines the process of collecting and storing website <mark>performance metrics</mark>, enabling efficient data analysis and reporting. The tool supports <mark>customizable</mark> date ranges and multiple GSC properties, making it a versatile solution for SEO professionals and web analysts. <a href="https://drive.google.com/file/d/1O2dVPk4oj1ktw4yvvUveOq-KsOvnaLjd" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, Google Search Console API, Google Cloud Platform, BigQuery, OAuth 2.0
 
           ---
 
@@ -311,6 +324,18 @@ content:
     layout: list
     content:
 
+      - layout: left #pid-33/3-1 | Chartio Dashboards for Muitiple Business Functions
+        title: Chartio Dashboards for Muitiple Business Functions
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Developed comprehensive Chartio dashboards <mark>integrating</mark> various business functions. Created interactive visualizations for <mark>conversion funnels</mark> and <mark>budget reports</mark>, enhancing data interpretation. Implemented <mark>alert systems</mark> for proactive monitoring and embedding capabilities for seamless integration. The project <mark>streamlined</mark> analytics processes, enabling data-driven decisions across departments and improving overall business intelligence. These dashboards provided a centralized platform for real-time data analysis and reporting. <a href="https://drive.google.com/file/d/17vpxQYwgKV9gUdxaoMjg768GNP8fAuQI" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Chartio, Data Visualization, Chart Embedding, Alerts
+
+          ---
 
       - layout: left #pid-11/3-2 | Reverse ETL based Customer Data Integration Platform with Metabase
         title: Reverse ETL based Customer Data Integration Platform with Metabase
@@ -322,6 +347,45 @@ content:
           Engineered a centralized reverse ETL customer data store, seamlessly <mark>integrating</mark> Hubspot, Klaviyo, and website tracking sources. Implemented robust <mark>data synchronization</mark> and conflict resolution mechanisms to ensure data integrity across platforms. Leveraged dbt for efficient data transformation and SQL for complex queries, creating a comprehensive, <mark>unified view</mark> of customer data, and visualization based on it in Metabase. This solution streamlined customer analytics and enabled more <mark>targeted marketing</mark> strategies. <a href="https://drive.google.com/file/d/1fCHU4JaJEkwM7tWxbhdFJL7jMWYKhC-j" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** DBT, Metabase, SQL, BigQuery, Airbyte, RudderStack, Klaviyo, Hubspot
+
+          ---
+
+      - layout: left #pid-60/3-3 | Data Platform Integration for Real-Time Analytics
+        title: Data Platform Integration for Real-Time Analytics
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Engineered a <mark>cost-effective</mark>, real-time <mark>data pipeline</mark>, seamlessly integrating customer data platforms and analytics tools. The solution harnessed the power of Segment, RudderStack, and BigQuery to <mark>optimize<mark> data flow, significantly reduce latency, and enhance data accessibility. This robust infrastructure enabled real-time insights, facilitating data-driven decision-making and <mark>improving<mark> overall business intelligence capabilities. <a href="https://drive.google.com/file/d/1IdhvADpE2KEo1FECbztJrMWlYZbpuEsN" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Segment, RudderStack, BigQuery, Amplitude, Google Analytics 4
+
+          ---
+
+      - layout: left #pid-16/3-4 | E-commerce Analytics Dashboard Development
+        title: E-commerce Analytics Dashboard Development
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Designed and <mark>implemented</mark> comprehensive Cluvio-based <mark>dashboards</mark> for a major e-commerce company, providing real-time insights into <mark>key performance indicators</mark> (KPIs). The project focused on channel performance, revenue tracking, customer behavior analysis, and item performance metrics. These dashboards <mark>enabled</mark> data-driven <mark>decision-making</mark> by visualizing MTD, QTD, and YTD comparisons, revenue trends, customer lifetime value, and top-performing items. <a href="https://drive.google.com/file/d/1QzprVdSFUDZteSaUbHaT8i-KnVNPtryE" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Cluvio, SQL, Data Analysis, KPIs
+
+          ---
+
+      - layout: left #pid-43/3-5 | Qlksense Financial Dashboard - A/R Aging and Time Analysis
+        title: Qlksense Financial Dashboard - A/R Aging and Time Analysis
+        link: https://drive.google.com/file/d/1JpNLDZADihxt2tlifoakWs1h8MJlpstF
+        link_text: Proprietary Work (Sample Dashboard)
+        
+        description: |
+          
+          Developed a comprehensive financial Qliksense dashboard integrating <mark>accounts receivable</mark> aging and time analysis features. This tool provides real-time insights into AR transaction summaries, aging distributions, and designer performance metrics. The dashboard enables <mark>efficient tracking</mark> of outstanding payments, workload distribution, and project hours, facilitating improved financial management and <mark>resource allocation</mark> for the business. <a href="https://drive.google.com/file/d/1bkZheaCJ6pFiVP9f-PzS8rvFCtCS9QD1" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Qliksense, Data Visualization, DBMS, Financial Data, Interactive Design, Business Intelligence
 
           ---
 
@@ -348,6 +412,90 @@ content:
           Developed a comprehensive sales tracking board to <mark>monitor</mark> and analyze <mark>sales associate</mark> performance. The dashboard features KPI tracking, scoreboard metrics, and visual representations of sales data. It allows for time-based <mark>filtering</mark> and provides a clear ranking system for sales associates. This tool enhances <mark>performance visibility</mark> and facilitates data-driven decision making in the sales department. <a href="https://drive.google.com/file/d/1gARfu23bbhtUQnqaYZ_AZJbY3sqmvqIF" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Looker Studio, SQL, Google Sheets
+
+          ---
+
+      - layout: left #pid-48/3-8 | Qliksense Data Visualization and Dashboard Development
+        title: Qliksense Data Visualization and Dashboard Development
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Developed and optimized data visualization <mark>solutions</mark> using Qliksense and Qlikview. Created interactive dashboards for financial reporting, inventory planning, and social media analytics. Improved <mark>dashboard performance</mark> through backend script optimization. Provided custom solutions for <mark>diverse industries</mark> including healthcare, finance, and marketing. <a href="https://drive.google.com/file/d/1UqBcuKnd3BvE3Gs61QoBXGQORzD2PyYw" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Qliksense, Qlikview, Qlik Web Connectors, Idevio Maps, SQL
+
+          ---
+
+      - layout: left #pid-34/3-8.1 | Financial Data Analysis and MacBeth Risk Assessment
+        title: Financial Data Analysis and MacBeth Risk Assessment
+        link: https://docs.google.com/spreadsheets/d/1J_Xz8l7_C2oMBUBwA797p8vSe0Mfe1RceiguKWLelTo
+        link_text: Proprietary Work (Sample Sheet)
+        
+        description: |
+          
+          Conducted comprehensive financial data analysis on a <mark>multi-year dataset</mark> (2013-2017) to assess <mark>investment performance</mark> and risk factors. Utilized advanced statistical methods including regression analysis, beta calculations, and MacBeth risk <mark>premium estimation</mark>. Evaluated fund flows, returns, and risk metrics across multiple product references to provide insights for informed investment decisions. <a href="https://drive.google.com/file/d/1ZFaLagBO30uy-LR_nGQPyM-2Hn7mQnxS" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Excel, Statistical Analysis, Time Series, Financial Modeling
+
+
+  - title: Software Engineering Projects
+    layout: list
+    content:
+
+      - layout: left #pid-53/4-1 | Job Application Bestie - AI Powered Cover Letter Creator
+        title: Job Application Bestie - AI Powered Cover Letter Creator
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Job Application Bestie is a <mark>web-based</mark> platform designed to streamline the job application process. It offers tools for crafting <mark>personalized cover letters</mark>, managing job applications, and leveraging AI assistance. The platform provides a <mark>user-friendly</mark> interface for job seekers to create professional applications, track their progress, and increase their chances of securing interviews. <a href="https://drive.google.com/file/d/1_9LAvpyiwSyPkE6OuZw2F-f244KuHAD4" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Django, HTML/CSS, JavaScript, OpenAI API, PDF Generation, MySQL
+
+          ---
+
+      - layout: left #pid-25/4-2 | Link Grammar Dictionary Visualization in Python
+        title: Link Grammar Dictionary Visualization in Python
+        link: https://github.com/rohanredtj/Link-Grammer-Dictionary-Visualization-Python
+        link_text: Project Code 🔗
+        
+        description: |
+          
+          Developed a Python-based tool to visualize Link Grammar dictionaries, focusing on <mark>5-word clusters</mark>. Transformed grammar data into <mark>ontology</mark> format using rdflib, then generated interactive graph visualizations with ontospy. This <mark>innovative approach</mark> enables exploration of linguistic structures through ontology-based representations, offering new insights into <mark>language patterns</mark> and relationships. <a href="https://drive.google.com/file/d/10KTnp1e9k92i1aONLCBgp4v9Eg43whQt" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, rdflib, Ontospy, RDF/OWL, Visualization
+
+          ---
+
+      - layout: left #pid-20/4-3 | Publisher Analysis and Classification Tool
+        title: Publisher Analysis and Classification Tool
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Django-based tool for analyzing and <mark>classifying publishers</mark> from Google Sheets data. The system <mark>automates</mark> the process of identifying known publishers, <mark>marking them</mark> in spreadsheets, and calculating <mark>publication statistics</mark>. It features data processing, API integration, and text analysis capabilities, streamlining the workflow for <mark>publisher recognition</mark> and analysis. <a href="https://drive.google.com/file/d/1NMOSL1jR-EDocNm-4jjlpBc22qxMMqbx" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, Django, Google Sheets API, Pandas, TextHero
+
+
+  - title: Other Projects
+    layout: list
+    content:
+
+      - layout: left #pid-51/5-1 | Hindi LLM Red Team Project
+        title: Hindi LLM Red Team Project
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Led several red team projects to evaluate and <mark>stress-test</mark> Large Language Models (LLMs) for Hindi language processing. Managed a team of annotators tasked with breaking the <mark>model's performance</mark>, specifically targeting products like Google Gemini. This project aimed to <mark>identify vulnerabilities</mark>, biases, and limitations in Hindi language understanding and generation within cutting-edge AI systems. <a href="https://drive.google.com/file/d/1fct7ekkWUqxx7BMO7-RcrNczHUQXQSDq" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Large Language Models (LLMs), Hindi Language Datasets, AI Testing Frameworks, Data Annotation Platforms
 
 
 footer_show_references: false
