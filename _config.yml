@@ -357,7 +357,7 @@ content:
         
         description: |
           
-          Engineered a <mark>cost-effective</mark>, real-time <mark>data pipeline</mark>, seamlessly integrating customer data platforms and analytics tools. The solution harnessed the power of Segment, RudderStack, and BigQuery to <mark>optimize<mark> data flow, significantly reduce latency, and enhance data accessibility. This robust infrastructure enabled real-time insights, facilitating data-driven decision-making and <mark>improving<mark> overall business intelligence capabilities. <a href="https://drive.google.com/file/d/1IdhvADpE2KEo1FECbztJrMWlYZbpuEsN" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          Engineered a <mark>cost-effective</mark>, real-time <mark>data pipeline</mark>, seamlessly integrating customer data platforms and analytics tools. The solution harnessed the power of Segment, RudderStack, and BigQuery to <mark>optimize</mark> data flow, significantly reduce latency, and enhance data accessibility. This robust infrastructure enabled real-time insights, facilitating data-driven decision-making and <mark>improving</mark> overall business intelligence capabilities. <a href="https://drive.google.com/file/d/1IdhvADpE2KEo1FECbztJrMWlYZbpuEsN" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
           
           **Technologies:** Segment, RudderStack, BigQuery, Amplitude, Google Analytics 4
 
