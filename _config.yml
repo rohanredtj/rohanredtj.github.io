@@ -234,6 +234,32 @@ content:
 
           ---
 
+      - layout: left #pid-19/2-5 | Semantic Keyword Clustering Tool for Adwords
+        title: Semantic Keyword Clustering Tool for Adwords
+        link: https://github.com/rohanredtj/semantic-keyword-clustering
+        link_text: Proprietary Work (Sample Code 🔗)
+        
+        description: |
+          
+          Python-based tool for semantic keyword <mark>clustering</mark> using natural language processing techniques. This tool processes <mark>large volumes</mark> of keywords, performs text cleaning, and groups semantically similar terms into clusters. It utilizes <mark>sentence transformers</mark> for generating embeddings and implements community detection algorithms for creating meaningful keyword groupings, <mark>enhancing SEO</mark> and content strategy efforts. <a href="https://drive.google.com/file/d/1IpvgH6Cpj21PHmRJPagHoMq1o2Gulpwt" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, Pandas, Sentence Transformers, NLTK, Scikit-learn
+
+          ---
+
+      - layout: left #pid-21/2-6 | Facebook Ad Bid Multiplier Optimization
+        title: Facebook Ad Bid Multiplier Optimization
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Developed an algorithm to <mark>optimize</mark> Facebook's Bid Multiplier feature for <mark>targeted advertising</mark>. The project involved analyzing ~20,000 customer data points to create an <mark>efficient bid</mark> configuration based on demographic factors like age, gender, and device platform. The goal was to maximize 12-month customer <mark>Lifetime Value (LTV)</mark> while minimizing ad spend, resulting in <mark>improved</mark> Return on Ad Spend (ROAS). <a href="https://drive.google.com/file/d/12j8GksruKwaXp6Qt_hb-p_ME3QlURdrd" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Python, NumPy, Pandas, SciPy, Machine Learning, Data Analysis, Data Visualization
+
+          ---
+
       - layout: left #pid-40/2-7 | Churn Prediction Model using XGBoost for Zenefits
         title: Churn Prediction Model using XGBoost for Zenefits
         link: https://colab.research.google.com/drive/1iJuzr62APaozFEF_WV_12WofcRqQ1r1r
@@ -363,6 +389,19 @@ content:
 
           ---
 
+      - layout: left #pid-63/3-3.1 | Amplitude Analytics Implementation for Online Flower Business
+        title: Amplitude Analytics Implementation for Online Flower Business
+        link: /#
+        link_text: Proprietary Work
+        
+        description: |
+          
+          Implemented advanced <mark>user analytics</mark> for an <mark>e-commerce</mark> platform using Amplitude. Developed custom dashboards for user <mark>journey analysis</mark> and product performance metrics. Created segment analysis to compare <mark>brand performance</mark>, focusing on flowers and drinks categories. Utilized data-driven insights to optimize user experience, <mark>increase conversions</mark>, and inform strategic decisions across various product lines. <a href="https://drive.google.com/file/d/1nLGjnAyQjRzIlfJZm70zM5GtsfmolYmk" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** Amplitude Analytics, SQL, Data Visualization, E-commerce, Event Tracking, User Segmentation, Custom Metrics
+
+          ---
+
       - layout: left #pid-16/3-4 | E-commerce Analytics Dashboard Development
         title: E-commerce Analytics Dashboard Development
         link: /#
@@ -443,6 +482,19 @@ content:
   - title: Software Engineering Projects
     layout: list
     content:
+
+      - layout: left #pid-53/4-0.9 | Real-time Job Notification System
+        title: Real-time Job Notification System
+        link: https://www.trendsonup.com
+        link_text: Website 🔗
+        
+        description: |
+          
+          TrendsOnUp is a freelancer-focused <mark>web application</mark> that provides real-time email <mark>notifications</mark> for Upwork <mark>job postings</mark>. It allows users to receive alerts for opportunities <mark>matching</mark> their skills and preferences, helping them stay ahead in their freelance careers. This free service empowers freelancers worldwide by enabling them to quickly respond to relevant job openings in the <mark>Upwork</mark> marketplace. <a href="https://drive.google.com/file/d/1_9LAvpyiwSyPkE6OuZw2F-f244KuHAD4" target="_blank" rel="noopener noreferrer" style="color: inherit;"> <i class="far fa-file-alt"></i> </a>
+          
+          **Technologies:** HTML, JavaScript, CSS, Email integration, Cloud Infrastructure
+
+          ---
 
       - layout: left #pid-53/4-1 | Job Application Bestie - AI Powered Cover Letter Creator
         title: Job Application Bestie - AI Powered Cover Letter Creator
