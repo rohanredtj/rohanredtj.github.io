@@ -1,4 +1,4 @@
-repository: rohanredtj/modern-resume-themeb
+repository: rohanredtj/modern-resume-theme
 
 
 favicon: images/favicon.ico
@@ -556,7 +556,7 @@ content:
 footer_show_references: false
 
 
-remote_theme: sproogen/resume-theme
+remote_theme: rohanredtj/modern-resume-themen
 
 
 sass:
