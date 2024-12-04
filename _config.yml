@@ -1,4 +1,4 @@
-repository: sproogen/resume-theme
+repository: rohanredtj/modern-resume-theme
 
 
 favicon: images/favicon.ico
@@ -30,7 +30,7 @@ additional_links:
   url: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
 
 # google_analytics: "UA-00000000-0"
-gtm: "GTM-TSS7JBLH"
+# gtm: "GTM-TSS7JBLH"
 # gtag: "UA-00000000-0"
 
 about_profile_image: images/profile.jpg
