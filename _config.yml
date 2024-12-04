@@ -29,8 +29,8 @@ additional_links:
   icon: fas fa-briefcase
   url: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
 
-google_analytics: "G-F7XR48JK4K"
-# gtm: "GTM-TSS7JBLH"
+google_analytics: "G-F7XR48JK4K" 
+# gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 
 about_profile_image: images/profile.jpg
