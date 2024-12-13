@@ -9,19 +9,19 @@ version: 2
 
 name: Rohan Rathore
 title: Data Engineer | Bengaluru, India
-phone_title: Contact 
-phone: rohan.rathore93@gmail.com
-email_title: Status
-email: Verified Expert
+# phone_title: Contact 
+# phone: rohan.rathore93@gmail.com
+# email_title: Status
+# email: Verified Expert
 
 
 darkmode: never
 
 
-twitter_username: rohanredtj
-github_username:  rohanredtj
-linkedin_username: rohanredtj
-instagram_username: rohanredtj
+# twitter_username: rohanredtj
+# github_username:  rohanredtj
+# linkedin_username: rohanredtj
+# instagram_username: rohanredtj
 
 
 additional_links:
