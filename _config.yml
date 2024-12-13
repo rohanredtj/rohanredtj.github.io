@@ -24,8 +24,8 @@ darkmode: never
 # instagram_username: rohanredtj
 
 
-additional_links:
-- title: Hire Rohan
+# additional_links:
+# - title: Hire Rohan
   icon: fas fa-briefcase
   url: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
 
