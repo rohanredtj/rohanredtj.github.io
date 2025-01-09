@@ -24,10 +24,10 @@ darkmode: never
 # instagram_username: rohanredtj
 
 
-# additional_links:
-# - title: Hire Rohan
-  # icon: fas fa-briefcase
-  # url: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
+additional_links:
+- title: Hire Rohan
+  icon: fas fa-briefcase
+  url: https://www.upwork.com/freelancers/~01ee871ca78c1a805c
 
 google_analytics: "G-F7XR48JK4K"
 # gtm: "GTM-0000000"
