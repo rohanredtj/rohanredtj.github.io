@@ -8,11 +8,12 @@ version: 2
 
 
 name: Rohan Rathore
-title: Data Engineer | Bengaluru, India
+# title: Data Engineer | Bengaluru, India
+title: Data Engineer
 # phone_title: Contact 
 # phone: rohan.rathore93@gmail.com
 # email_title: Status
-# email: Verified Expert
+email: Bengaluru, India
 
 
 darkmode: never
@@ -556,8 +557,6 @@ content:
 
 
 footer_show_references: false
-references_title: "aa111"
-footer_text: "bb111"
 
 
 remote_theme: rohanredtj/modern-resume-theme
