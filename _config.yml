@@ -557,6 +557,7 @@ content:
 
 footer_show_references: false
 references_title: ""
+footer_text: ""
 
 
 remote_theme: rohanredtj/modern-resume-theme
