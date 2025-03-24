@@ -38,7 +38,7 @@ about_profile_image: images/profile.jpg
 about_content: |
 
   ## **Expertise**
-  <span class="block-secondary">Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Cloud Platforms</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">Database Design</span> <span class="block-secondary">Data Pipeline Architecture</span> <span class="block-secondary">Version Control</span> <span class="block-secondary">Containerization</span></blockquote>
+  <blockquote><span class="block-secondary">Data Engineering</span> <span class="block-secondary">Data Analysis</span> <span class="block-secondary">Data Warehousing</span> <span class="block-secondary">ETL</span> <span class="block-secondary">Big Data</span> <span class="block-secondary">Cloud Platforms</span> <span class="block-secondary">Data Modeling</span> <span class="block-secondary">Database Design</span> <span class="block-secondary">Data Pipeline Architecture</span> <span class="block-secondary">Version Control</span> <span class="block-secondary">Containerization</span></blockquote>
   
   ## **Project Categories**
   [Data Engineering](#data-engineering-projects), [Data Science](#data-science-projects), [Data Analytics](#data-analytics-projects), [Software Engineering](#software-engineering-projects), [Other](#other-projects)
